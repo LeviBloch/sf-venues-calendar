@@ -1,5 +1,5 @@
 {
-  "last_error": "No JSON-LD events found at ['https://www.sfopera.com/calendar/', 'https://www.sfopera.com/operas/']. Site may have changed structure or gone SPA-only.",
-  "error_count": 1,
-  "last_attempt": "2026-06-07T19:47:32.037138-07:00"
+  "last_error": "Timeout 20000ms exceeded.\n=========================== logs ===========================\n\"load\" event fired\n============================================================",
+  "error_count": 2,
+  "last_attempt": "2026-06-07T20:49:54.420907-07:00"
 }

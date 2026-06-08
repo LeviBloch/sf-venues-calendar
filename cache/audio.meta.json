@@ -1,5 +1,5 @@
 {
-  "last_error": "No JSON-LD events found at ['https://audiosf.com/', 'https://audiosf.com/events/', 'https://audiosf.com/calendar/']. Site may have changed structure or gone SPA-only.",
-  "error_count": 1,
-  "last_attempt": "2026-06-07T19:47:33.559408-07:00"
+  "last_error": "All extraction strategies failed for Audio at https://audiosf.com/. Rendered HTML was 12139 bytes; captured 0 JSON XHR responses.",
+  "error_count": 2,
+  "last_attempt": "2026-06-07T20:50:28.693235-07:00"
 }
