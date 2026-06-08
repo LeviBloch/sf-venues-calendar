@@ -1,5 +1,5 @@
 {
-  "last_error": "All extraction strategies failed for Audio at https://audiosf.com/. Rendered HTML was 12139 bytes; captured 0 JSON XHR responses.",
-  "error_count": 2,
-  "last_attempt": "2026-06-07T20:50:28.693235-07:00"
+  "last_error": "All extraction strategies failed for Audio at https://audiosf.com/. Rendered HTML was 12137 bytes; captured 0 JSON XHR responses.",
+  "error_count": 3,
+  "last_attempt": "2026-06-07T20:54:03.840048-07:00"
 }

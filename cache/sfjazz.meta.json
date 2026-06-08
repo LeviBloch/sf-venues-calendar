@@ -1,5 +1,5 @@
 {
-  "last_error": "All extraction strategies failed for SFJAZZ at https://www.sfjazz.org/tickets/calendar/. Rendered HTML was 121347 bytes; captured 5 JSON XHR responses.",
-  "error_count": 2,
-  "last_attempt": "2026-06-07T20:50:02.867310-07:00"
+  "last_error": "Timeout 20000ms exceeded.\n=========================== logs ===========================\n\"load\" event fired\n============================================================",
+  "error_count": 3,
+  "last_attempt": "2026-06-07T20:53:37.411699-07:00"
 }
