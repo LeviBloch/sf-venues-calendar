@@ -2,35 +2,57 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch the Finals in our Main Bar",
-    "start": "2026-06-16T17:30:00-07:00",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-28T12:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694561?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694792?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694561"
+    "source_uid": "694792"
   },
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch the Finals in our Main Bar",
-    "start": "2026-06-13T17:30:00-07:00",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-27T12:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694560?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694791?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694560"
+    "source_uid": "694791"
   },
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch the Finals in our Main Bar",
-    "start": "2026-06-10T17:30:00-07:00",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-26T18:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694559?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694788?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694559"
+    "source_uid": "694788"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-25T12:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694787?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694787"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-21T12:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694785?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694785"
   },
   {
     "venue_key": "chapel",
@@ -46,28 +68,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "The Devil Makes Three",
-    "start": "2026-10-21T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/The-Devil-Makes-Three/693375?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Americana",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "693375"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch the Finals in our Main Bar",
-    "start": "2026-06-08T17:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694553?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694553"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Watch the Finals in our Main Bar",
     "start": "2026-06-10T17:30:00-07:00",
     "end": null,
@@ -75,6 +75,28 @@
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694559"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-11T12:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar/694767?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694767"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-12T18:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694771?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694771"
   },
   {
     "venue_key": "chapel",
@@ -86,6 +108,17 @@
     "description": "with Supporting Talent: Floratura, DJ and Host Irie Dole\nat The Chapel\nGenre: Reggae",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "677629"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-13T12:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694773?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694773"
   },
   {
     "venue_key": "chapel",
@@ -112,6 +145,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-14T12:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694776?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694776"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Watch the Finals in our Main Bar",
     "start": "2026-06-16T17:30:00-07:00",
     "end": null,
@@ -119,49 +163,5 @@
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694561"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Ásgeir",
-    "start": "2026-06-16T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/asgeir/676917?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "676917"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Jesca Hoop",
-    "start": "2026-06-17T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/jesca-hoop/684481?afflky=TheChapel",
-    "description": "with Supporting Talent: Faun Fables\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "684481"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Private Event",
-    "start": "2026-06-18T20:00:00-07:00",
-    "end": null,
-    "url": "https://thechapelsf.com/private-events/",
-    "description": "at The Chapel\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Dengue Fever",
-    "start": "2026-06-20T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/dengue-fever/679341?afflky=TheChapel",
-    "description": "with Supporting Talent: BOLERO!, Mad Alchemy Liquid Light Show\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "679341"
   }
 ]
