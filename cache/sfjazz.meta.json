@@ -1,5 +1,5 @@
 {
-  "last_error": "Timeout 20000ms exceeded.\n=========================== logs ===========================\n\"load\" event fired\n============================================================",
-  "error_count": 3,
-  "last_attempt": "2026-06-07T20:53:37.411699-07:00"
+  "last_error": "All extraction strategies failed for SFJAZZ at https://www.sfjazz.org/tickets/calendar/. HTML=121359 bytes, JSON XHRs=5, all XHRs=148. Debug artifact: debug/sfjazz.html",
+  "error_count": 4,
+  "last_attempt": "2026-06-07T21:20:36.450342-07:00"
 }
