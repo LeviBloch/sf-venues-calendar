@@ -1,0 +1,279 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>SF Venues Calendar</title>
+  <!-- FullCalendar v6 — vendored from jsDelivr CDN, no build step -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.js"></script>
+  <style>
+    :root {
+      --bg: #fafafa;
+      --fg: #1a1a1a;
+      --muted: #666;
+      --border: #e0e0e0;
+      --panel: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1a1a1a;
+        --fg: #f0f0f0;
+        --muted: #aaa;
+        --border: #333;
+        --panel: #242424;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--fg);
+      font-size: 14px;
+    }
+    header {
+      padding: 16px 24px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    header h1 { margin: 0; font-size: 18px; font-weight: 600; }
+    header .meta { color: var(--muted); font-size: 12px; }
+    main {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      gap: 0;
+      min-height: calc(100vh - 60px);
+    }
+    @media (max-width: 720px) {
+      main { grid-template-columns: 1fr; }
+      aside { border-right: none; border-bottom: 1px solid var(--border); }
+    }
+    aside {
+      padding: 16px 20px;
+      border-right: 1px solid var(--border);
+      background: var(--panel);
+    }
+    aside h2 {
+      font-size: 11px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 16px 0 8px 0;
+      font-weight: 600;
+    }
+    aside h2:first-of-type { margin-top: 0; }
+    .venue-list { list-style: none; padding: 0; margin: 0; }
+    .venue-list li { margin: 6px 0; }
+    .venue-list label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      user-select: none;
+      padding: 4px 6px;
+      border-radius: 4px;
+    }
+    .venue-list label:hover { background: rgba(127,127,127,0.08); }
+    .venue-list input { margin: 0; }
+    .swatch {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border-radius: 3px;
+      flex-shrink: 0;
+    }
+    .venue-name { flex: 1; }
+    .venue-count { color: var(--muted); font-size: 12px; }
+    .actions { margin-top: 8px; display: flex; gap: 8px; }
+    .actions button {
+      flex: 1;
+      padding: 4px 8px;
+      font-size: 11px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--fg);
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    .actions button:hover { background: rgba(127,127,127,0.08); }
+    #calendar {
+      padding: 16px 20px;
+      background: var(--bg);
+    }
+    /* FullCalendar dark mode tweaks */
+    @media (prefers-color-scheme: dark) {
+      .fc { color: var(--fg); }
+      .fc-theme-standard td, .fc-theme-standard th,
+      .fc-theme-standard .fc-scrollgrid { border-color: var(--border); }
+      .fc .fc-button-primary {
+        background: var(--panel);
+        border-color: var(--border);
+        color: var(--fg);
+      }
+      .fc .fc-button-primary:hover { background: rgba(255,255,255,0.05); }
+      .fc-day-today { background: rgba(0, 122, 255, 0.08) !important; }
+      .fc-list-event:hover td { background: rgba(127,127,127,0.08) !important; }
+    }
+    .fc-event { cursor: pointer; font-size: 12px; }
+    .empty-state {
+      text-align: center;
+      color: var(--muted);
+      padding: 80px 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>SF Venues Calendar</h1>
+      <div class="meta" id="meta">Loading…</div>
+    </div>
+    <div>
+      <a href="index.html" style="color: var(--muted); text-decoration: none; font-size: 13px;">← Status</a>
+    </div>
+  </header>
+  <main>
+    <aside>
+      <h2>Venues</h2>
+      <ul class="venue-list" id="venue-list"></ul>
+      <div class="actions">
+        <button id="select-all">All</button>
+        <button id="select-none">None</button>
+      </div>
+
+      <h2>View</h2>
+      <ul class="venue-list">
+        <li><label><input type="radio" name="view" value="dayGridMonth" checked> Month</label></li>
+        <li><label><input type="radio" name="view" value="timeGridWeek"> Week</label></li>
+        <li><label><input type="radio" name="view" value="listMonth"> List</label></li>
+      </ul>
+
+      <h2>Subscribe</h2>
+      <div style="font-size: 12px; line-height: 1.5; color: var(--muted);">
+        Apple Calendar →<br>
+        File → New Calendar Subscription<br>
+        Use <code style="font-size: 11px;">webcal://</code> prefix
+      </div>
+    </aside>
+
+    <div id="calendar"></div>
+  </main>
+
+  <script>
+    // Persist venue selection in localStorage so toggles survive reloads
+    const STORAGE_KEY = 'sf-venues-enabled';
+    const loadEnabled = () => {
+      try { return new Set(JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]')); }
+      catch { return new Set(); }
+    };
+    const saveEnabled = (set) => localStorage.setItem(STORAGE_KEY, JSON.stringify([...set]));
+
+    let allEvents = [];
+    let venues = [];
+    let enabled = loadEnabled();
+    let calendar;
+
+    fetch('events.json', { cache: 'no-store' })
+      .then(r => r.json())
+      .then(data => {
+        allEvents = data.events;
+        venues = data.venues;
+
+        // If first load, enable all venues by default
+        if (enabled.size === 0) {
+          enabled = new Set(venues.map(v => v.key));
+          saveEnabled(enabled);
+        }
+
+        document.getElementById('meta').textContent =
+          `${allEvents.length} events · last built ${new Date(data.generated_at).toLocaleString()}`;
+
+        renderVenueList();
+        initCalendar();
+      })
+      .catch(err => {
+        document.getElementById('calendar').innerHTML =
+          `<div class="empty-state">Failed to load events.json: ${err.message}</div>`;
+      });
+
+    function renderVenueList() {
+      const ul = document.getElementById('venue-list');
+      ul.innerHTML = venues.map(v => `
+        <li>
+          <label>
+            <input type="checkbox" data-key="${v.key}" ${enabled.has(v.key) ? 'checked' : ''}>
+            <span class="swatch" style="background:${v.color}"></span>
+            <span class="venue-name">${v.name}</span>
+            <span class="venue-count">${v.count}</span>
+          </label>
+        </li>
+      `).join('');
+
+      ul.querySelectorAll('input[type=checkbox]').forEach(cb => {
+        cb.addEventListener('change', () => {
+          const key = cb.dataset.key;
+          if (cb.checked) enabled.add(key); else enabled.delete(key);
+          saveEnabled(enabled);
+          calendar.refetchEvents();
+        });
+      });
+
+      document.getElementById('select-all').onclick = () => {
+        enabled = new Set(venues.map(v => v.key));
+        saveEnabled(enabled);
+        renderVenueList();
+        calendar.refetchEvents();
+      };
+      document.getElementById('select-none').onclick = () => {
+        enabled = new Set();
+        saveEnabled(enabled);
+        renderVenueList();
+        calendar.refetchEvents();
+      };
+    }
+
+    function visibleEvents() {
+      return allEvents.filter(e => enabled.has(e.venue_key));
+    }
+
+    function initCalendar() {
+      const el = document.getElementById('calendar');
+      calendar = new FullCalendar.Calendar(el, {
+        initialView: 'dayGridMonth',
+        headerToolbar: {
+          left: 'prev,next today',
+          center: 'title',
+          right: '',  // view switcher is in the sidebar
+        },
+        height: 'auto',
+        firstDay: 0,           // Sunday
+        nowIndicator: true,
+        eventTimeFormat: { hour: 'numeric', minute: '2-digit', meridiem: 'short' },
+        events: (info, successCallback) => successCallback(visibleEvents()),
+        eventClick: (info) => {
+          info.jsEvent.preventDefault();
+          if (info.event.url) window.open(info.event.url, '_blank', 'noopener');
+        },
+        eventDidMount: (info) => {
+          // Tooltip with venue + description
+          const e = info.event;
+          const venueName = e.extendedProps.venue_name || '';
+          const desc = e.extendedProps.description || '';
+          info.el.title = [venueName, desc].filter(Boolean).join('\n\n');
+        },
+      });
+      calendar.render();
+
+      // Hook up view radio buttons
+      document.querySelectorAll('input[name=view]').forEach(r => {
+        r.addEventListener('change', () => calendar.changeView(r.value));
+      });
+    }
+  </script>
+</body>
+</html>

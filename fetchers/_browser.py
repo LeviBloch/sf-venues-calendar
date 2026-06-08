@@ -7,15 +7,21 @@ Why Playwright instead of just requests:
   - SF Opera / SFJAZZ / Audio render event data client-side via XHR — the
     initial HTML is mostly empty.
 
-Strategy:
-  We open the page in headless Chromium, optionally wait for a known content
-  selector to appear (signals the JS has populated the DOM), then return
-  the fully rendered HTML. Each per-venue fetcher then runs BeautifulSoup
-  against the rendered HTML using normal scraping techniques.
+Wait strategy (matters — got burned by this on the first deploy):
+  Many venue sites stream analytics/telemetry continuously (Tessitura,
+  React/Redux apps), so `networkidle` NEVER fires within any reasonable
+  timeout. We use a layered approach:
+    1. Wait for `domcontentloaded` (initial HTML parsed)
+    2. Wait for the venue-specific content selector (signals SPA populated)
+    3. Optionally scroll to trigger lazy-loading
+    4. A short settle delay
+  We do NOT block on `networkidle` — it caused 20s timeouts on Opera/SFJAZZ.
 
-  We also capture all JSON XHR responses during the render — venue fetchers
-  that find a clean JSON API can use those directly (more robust than DOM
-  scraping).
+XHR capture:
+  We record all JSON XHR responses + a list of every XHR URL during render.
+  The JSON responses feed the SPA event-extractor; the URL list is dumped
+  to the debug artifact when fetchers fail (so we can iterate on selectors
+  by inspecting which APIs the page actually called).
 
 Browser is launched once per build for efficiency (see `browser_session`).
 """
@@ -35,18 +41,21 @@ class RenderedPage:
     url: str
     html: str
     json_responses: list[tuple[str, dict | list]] = field(default_factory=list)
+    xhr_urls: list[str] = field(default_factory=list)
 
 
 @contextmanager
 def browser_session():
-    """Yield a Playwright browser context. Use as:
-        with browser_session() as ctx:
-            page = render(ctx, "https://…", wait_for=".perf-card")
-    """
+    """Yield a Playwright browser context."""
     from playwright.sync_api import sync_playwright
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True, args=["--no-sandbox"])
-        ctx = browser.new_context(user_agent=UA, viewport={"width": 1400, "height": 900})
+        ctx = browser.new_context(
+            user_agent=UA,
+            viewport={"width": 1400, "height": 900},
+            locale="en-US",
+            timezone_id="America/Los_Angeles",
+        )
         try:
             yield ctx
         finally:
@@ -59,22 +68,26 @@ def render(
     url: str,
     *,
     wait_for: Optional[str] = None,
-    wait_timeout_ms: int = 20_000,
-    settle_ms: int = 1500,
+    wait_timeout_ms: int = 15_000,
+    settle_ms: int = 2500,
     scroll: bool = False,
 ) -> RenderedPage:
-    """Open `url` in a new tab, optionally wait for `wait_for` CSS selector,
-    return rendered HTML + any JSON XHR payloads we saw."""
+    """Open `url` in a new tab. Returns rendered HTML + XHR data.
+
+    Never raises on wait timeouts — we always return whatever rendered.
+    Downstream extraction decides whether that's enough.
+    """
     import json as _json
 
     page = ctx.new_page()
     json_responses: list[tuple[str, dict | list]] = []
+    xhr_urls: list[str] = []
 
     def on_response(resp):
         try:
+            xhr_urls.append(f"{resp.status} {resp.request.method} {resp.url}")
             ct = resp.headers.get("content-type", "")
             if resp.status == 200 and "json" in ct.lower():
-                # Cap body size to avoid OOM on huge feeds
                 body = resp.body()
                 if len(body) < 2_000_000:
                     try:
@@ -88,22 +101,26 @@ def render(
 
     try:
         page.goto(url, timeout=30_000, wait_until="domcontentloaded")
-        # Queue-it interstitials redirect — give them time to resolve
-        page.wait_for_load_state("networkidle", timeout=wait_timeout_ms)
+
         if wait_for:
             try:
                 page.wait_for_selector(wait_for, timeout=wait_timeout_ms, state="attached")
             except Exception:
-                pass  # not fatal; we still grab whatever rendered
+                pass
+
         if scroll:
-            # Some sites lazy-load on scroll
-            for _ in range(3):
-                page.mouse.wheel(0, 4000)
-                page.wait_for_timeout(500)
+            for _ in range(4):
+                try:
+                    page.mouse.wheel(0, 4000)
+                    page.wait_for_timeout(400)
+                except Exception:
+                    break
+
         page.wait_for_timeout(settle_ms)
         html = page.content()
         final_url = page.url
     finally:
         page.close()
 
-    return RenderedPage(url=final_url, html=html, json_responses=json_responses)
+    return RenderedPage(url=final_url, html=html,
+                        json_responses=json_responses, xhr_urls=xhr_urls)

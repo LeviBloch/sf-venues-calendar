@@ -42,6 +42,21 @@ CONFIG = ROOT / "config.yaml"
 CACHE.mkdir(exist_ok=True)
 DOCS.mkdir(exist_ok=True)
 
+# Color per venue — used by docs/calendar.html (FullCalendar) AND surfaced
+# in events.json. Chosen for distinguishability + reasonable category fit:
+# classical/symphony = blues, dance = pink, jazz = gold,
+# nightclubs/electronic = vibrant primaries.
+VENUE_COLORS = {
+    "symphony":  "#1f4e8c",  # deep blue — orchestral
+    "opera":     "#7a1e1e",  # garnet — operatic
+    "ballet":    "#c2185b",  # rose pink — ballet
+    "sfjazz":    "#c8861d",  # warm gold — jazz brass
+    "dnalounge": "#7b1fa2",  # purple — alt/electronic
+    "chapel":    "#388e3c",  # green — folk/indie
+    "audio":     "#d84315",  # orange-red — house/techno
+    "tipples":   "#5d4037",  # mahogany — cocktail bar
+}
+
 
 # ---------- cache ----------
 
@@ -294,6 +309,29 @@ def main() -> int:
     all_events.sort(key=lambda e: e.start)
     atomic_write(DOCS / "all.ics", build_calendar("SF Venues (all)", all_events, all_warnings))
 
+    # events.json — consumed by docs/calendar.html (FullCalendar)
+    events_json = [{
+        "id": e.uid(),
+        "title": e.title,
+        "start": e.start.isoformat(),
+        "end": (e.end or (e.start + timedelta(hours=2, minutes=30))).isoformat(),
+        "url": e.url or "",
+        "venue_key": e.venue_key,
+        "venue_name": e.venue_name,
+        "location": e.location,
+        "description": e.description,
+        "color": VENUE_COLORS.get(e.venue_key, "#888"),
+    } for e in all_events]
+    atomic_write(DOCS / "events.json", json.dumps({
+        "generated_at": datetime.now(PACIFIC).isoformat(),
+        "venues": [
+            {"key": s["key"], "name": s["name"], "color": VENUE_COLORS.get(s["key"], "#888"),
+             "state": s["state"], "count": s.get("count", 0)}
+            for s in statuses
+        ],
+        "events": events_json,
+    }, indent=2, ensure_ascii=False))
+
     # status.json
     summary = {
         "generated_at": datetime.now(PACIFIC).isoformat(),
@@ -322,8 +360,12 @@ def write_index_html(summary: dict) -> None:
             "stale": '<span style="color:#c80">⚠</span>',
             "disabled": '<span style="color:#888">○</span>',
         }.get(s["state"], "?")
+        color = VENUE_COLORS.get(s["key"], "#888")
         rows.append(
-            f"<tr><td>{badge}</td><td><a href='{s['url']}'>{s['name']}</a></td>"
+            f"<tr><td>{badge}</td>"
+            f"<td><span style='display:inline-block;width:12px;height:12px;background:{color};"
+            f"border-radius:3px;vertical-align:middle;margin-right:6px'></span>"
+            f"<a href='{s['url']}'>{s['name']}</a></td>"
             f"<td>{s['count']}</td>"
             f"<td><a href='{s['key']}.ics'>{s['key']}.ics</a></td>"
             f"<td>{s.get('last_success', '—')}</td>"
@@ -332,30 +374,41 @@ def write_index_html(summary: dict) -> None:
     html = f"""<!doctype html>
 <html><head><meta charset="utf-8"><title>SF Venues Calendar</title>
 <style>
-  body {{ font-family: -apple-system, system-ui, sans-serif; max-width: 860px;
+  body {{ font-family: -apple-system, system-ui, sans-serif; max-width: 900px;
           margin: 2em auto; padding: 0 1em; color: #222; }}
   table {{ border-collapse: collapse; width: 100%; }}
   th, td {{ text-align: left; padding: .4em .8em; border-bottom: 1px solid #ddd;
             font-size: 14px; }}
   th {{ background: #f5f5f5; }}
-  code {{ background: #eee; padding: 2px 6px; border-radius: 4px; }}
+  code {{ background: #eee; padding: 2px 6px; border-radius: 4px; font-size: 13px; }}
   .meta {{ color: #666; font-size: 13px; }}
+  .cta {{ display: inline-block; padding: 10px 20px; background: #007aff;
+         color: white; text-decoration: none; border-radius: 6px;
+         font-weight: 500; margin: 8px 8px 8px 0; }}
+  .cta.secondary {{ background: #e0e0e0; color: #333; }}
 </style></head>
 <body>
 <h1>SF Venues Calendar</h1>
 <p class="meta">Last build: {summary['generated_at']} · Horizon: {summary['horizon_days']} days ·
    Total events: {summary['total_events']}</p>
 
-<h2>Subscribe</h2>
-<p>Combined: <code>webcal://YOUR-GH-PAGES-URL/all.ics</code></p>
-<p>Or subscribe per venue (lets Apple Calendar color them independently).</p>
+<p>
+  <a class="cta" href="calendar.html">📅 Open interactive calendar</a>
+  <a class="cta secondary" href="all.ics">⬇ Download all.ics</a>
+</p>
+
+<h2>Subscribe in Apple Calendar</h2>
+<p>Replace <code>https://</code> with <code>webcal://</code> in the URL — e.g.:</p>
+<p><code>webcal://{{your-domain}}/all.ics</code></p>
+<p>Or subscribe per venue so each gets its own color/toggle in the sidebar.</p>
 
 <h2>Status</h2>
 <table>
 <tr><th></th><th>Venue</th><th>Events</th><th>Feed</th><th>Last good fetch</th><th>Error</th></tr>
 {''.join(rows)}
 </table>
-<p class="meta">Source: <a href="https://github.com/">github repo</a> · Rebuilds every 12h</p>
+<p class="meta">Rebuilds every 12h via GitHub Actions ·
+   <a href="status.json">status.json</a> · <a href="events.json">events.json</a></p>
 </body></html>"""
     (DOCS / "index.html").parent.mkdir(parents=True, exist_ok=True)
     atomic_write(DOCS / "index.html", html)

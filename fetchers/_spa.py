@@ -3,19 +3,28 @@ Shared logic for Playwright-based fetchers.
 
 Each SPA venue uses the same fetch pattern:
     1. Render the page with headless Chromium
-    2. Try to find JSON-LD Event objects in the rendered HTML (most reliable
-       because many venues add SEO markup that's only injected after JS runs)
+    2. Try to find JSON-LD Event objects in the rendered HTML
     3. Walk any JSON XHR responses captured during render for event-shaped
-       payloads — this is the holy grail when it works (true API data)
+       payloads
     4. Fall back to venue-specific DOM scraping (callback)
 
-If all 4 strategies fail, raise so the orchestrator emits the stale warning.
+If all 4 strategies fail, we SAVE the rendered HTML and XHR URL list to
+docs/debug/<venue>.html and docs/debug/<venue>-xhrs.txt before raising,
+so the failure auto-publishes diagnostic artifacts to GH Pages. Iterating
+on a broken parser then takes one round trip: look at debug HTML → fix
+selectors → push.
 """
 from __future__ import annotations
+import os
 from datetime import datetime
+from pathlib import Path
 from typing import Callable, Optional
 from dateutil import parser as dtparser
 from .base import Event, PACIFIC, assume_pacific, extract_jsonld_events
+
+# docs/debug is published via GH Pages — debug artifacts are publicly
+# accessible at https://<user>.github.io/sf-venues-calendar/debug/<venue>.html
+DEBUG_DIR = Path(__file__).resolve().parent.parent / "docs" / "debug"
 
 
 def _parse_dt(raw: str) -> Optional[datetime]:
@@ -31,10 +40,7 @@ def _parse_dt(raw: str) -> Optional[datetime]:
     return dt.astimezone(PACIFIC) if dt.tzinfo else assume_pacific(dt)
 
 
-def events_from_jsonld(
-    html: str, *, key: str, name: str, location: str,
-) -> list[Event]:
-    """Pull Event objects from JSON-LD in (rendered) HTML."""
+def events_from_jsonld(html: str, *, key: str, name: str, location: str) -> list[Event]:
     out: list[Event] = []
     for ev in extract_jsonld_events(html):
         start = _parse_dt(ev.get("startDate"))
@@ -62,20 +68,18 @@ def events_from_xhr(
     json_responses: list[tuple[str, dict | list]],
     *, key: str, name: str, location: str,
 ) -> list[Event]:
-    """Walk every captured JSON response, looking for objects that have the
-    shape of an event: { name|title, startDate|start|date, ... }.
-
-    Deliberately tolerant — different venues' APIs use different field names.
-    """
+    """Walk every JSON response looking for objects with shape
+    { name|title, startDate|start|date, … }."""
     out: list[Event] = []
     seen_keys: set[str] = set()
 
-    NAME_KEYS  = ("name", "title", "headline", "performanceName", "eventName")
+    NAME_KEYS  = ("name", "title", "headline", "performanceName", "eventName", "production_name")
     START_KEYS = ("startDate", "start", "date", "startTime", "performanceDateTime",
-                  "performance_datetime", "datetime", "dateTime")
-    END_KEYS   = ("endDate", "end", "endTime")
-    URL_KEYS   = ("url", "link", "permalink", "ticketUrl", "eventUrl")
-    UID_KEYS   = ("id", "@id", "performanceId", "eventId", "uid", "perfNo")
+                  "performance_datetime", "datetime", "dateTime", "performance_date",
+                  "start_date", "start_time", "scheduled_start")
+    END_KEYS   = ("endDate", "end", "endTime", "end_date", "end_time")
+    URL_KEYS   = ("url", "link", "permalink", "ticketUrl", "eventUrl", "href")
+    UID_KEYS   = ("id", "@id", "performanceId", "eventId", "uid", "perfNo", "performance_id")
 
     def first(d: dict, keys) -> Optional[str]:
         for k in keys:
@@ -120,6 +124,31 @@ def events_from_xhr(
     return out
 
 
+def _dump_debug(key: str, page) -> str:
+    """Write rendered HTML + XHR list. Returns a public-accessible URL hint."""
+    try:
+        DEBUG_DIR.mkdir(parents=True, exist_ok=True)
+        # Atomic-ish write — same trick as build.atomic_write
+        import tempfile, os as _os
+        for name, data in [
+            (f"{key}.html", page.html),
+            (f"{key}-xhrs.txt",
+             f"# Final URL: {page.url}\n"
+             f"# Captured XHRs: {len(page.xhr_urls)}\n"
+             f"# JSON responses parsed: {len(page.json_responses)}\n"
+             f"# Generated: {datetime.utcnow().isoformat()}Z\n\n"
+             + "\n".join(page.xhr_urls)),
+        ]:
+            target = DEBUG_DIR / name
+            fd, tmp = tempfile.mkstemp(dir=str(DEBUG_DIR), prefix=f".{name}.", suffix=".tmp")
+            with _os.fdopen(fd, "wb") as f:
+                f.write(data.encode("utf-8") if isinstance(data, str) else data)
+            _os.replace(tmp, target)
+        return f"debug/{key}.html"
+    except Exception as ex:
+        return f"(debug dump failed: {ex})"
+
+
 def render_and_extract(
     browser_ctx,
     *,
@@ -129,10 +158,11 @@ def render_and_extract(
     url: str,
     wait_for: Optional[str] = None,
     dom_scraper: Optional[Callable[[str], list[Event]]] = None,
-    settle_ms: int = 2000,
+    settle_ms: int = 2500,
     scroll: bool = False,
 ) -> list[Event]:
-    """Full fetch pipeline. Tries JSON-LD → XHR JSON → dom_scraper in order."""
+    """Render → JSON-LD → XHR JSON → dom_scraper. On failure, dumps debug
+    artifacts to docs/debug/ and raises with a pointer to them."""
     if browser_ctx is None:
         raise RuntimeError(
             f"{name} needs Playwright but no browser context was provided "
@@ -158,8 +188,11 @@ def render_and_extract(
         if events:
             return events
 
+    # 4) Failure — dump debug artifacts so we can iterate
+    debug_url = _dump_debug(key, page)
     raise RuntimeError(
         f"All extraction strategies failed for {name} at {page.url}. "
-        f"Rendered HTML was {len(page.html)} bytes; "
-        f"captured {len(page.json_responses)} JSON XHR responses."
+        f"HTML={len(page.html)} bytes, JSON XHRs={len(page.json_responses)}, "
+        f"all XHRs={len(page.xhr_urls)}. "
+        f"Debug artifact: {debug_url}"
     )

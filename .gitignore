@@ -8,7 +8,11 @@ venv/
 # OS
 .DS_Store
 
-# Build artifacts (regenerated each run; do NOT commit so PRs stay clean)
+# Build artifacts (regenerated each run — do NOT commit so PRs stay clean)
 docs/*.ics
 docs/status.json
 docs/index.html
+docs/events.json
+docs/debug/
+
+# NOTE: docs/calendar.html IS committed — it's the hand-authored viewer page
