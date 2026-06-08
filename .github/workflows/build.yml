@@ -1,0 +1,71 @@
+name: Build SF Venues Calendar
+
+on:
+  schedule:
+    # Every 12 hours at 07:15 and 19:15 UTC (~midnight + noon Pacific)
+    - cron: '15 7,19 * * *'
+  workflow_dispatch:  # manual trigger button in the Actions UI
+  push:
+    branches: [main]
+    paths:
+      - 'fetchers/**'
+      - 'build.py'
+      - 'config.yaml'
+      - '.github/workflows/build.yml'
+
+# Allow this workflow to commit cache updates and deploy to Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      - name: Install Chromium for Playwright
+        run: python -m playwright install --with-deps chromium
+
+      - name: Build calendars
+        run: python build.py
+
+      - name: Commit cache updates
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cache/
+          if git diff --staged --quiet; then
+            echo "No cache changes"
+          else
+            git commit -m "chore: update cache [skip ci]"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

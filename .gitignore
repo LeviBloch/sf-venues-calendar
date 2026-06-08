@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pylibs/
+
+# OS
+.DS_Store
+
+# Build artifacts (regenerated each run; do NOT commit so PRs stay clean)
+docs/*.ics
+docs/status.json
+docs/index.html

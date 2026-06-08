@@ -1,0 +1,54 @@
+# SF Venues Calendar — filter config
+#
+# Each venue can specify:
+#   enabled: bool (default true) — toggle without removing
+#   exclude_keywords: list of regex patterns (case-insensitive) matched against
+#                    title + description. Matching events are dropped.
+#   include_keywords: list of regex patterns (case-insensitive). If present,
+#                    ONLY matching events are kept (applied after excludes).
+#
+# Examples are commented out — uncomment + edit as needed.
+
+horizon_days: 90  # only emit events within this many days from today
+
+venues:
+  dnalounge:
+    enabled: true
+    exclude_keywords:
+      # - "hubba hubba"          # skip burlesque nights
+      # - "industry night"
+      # - "bootie sf"
+
+  chapel:
+    enabled: true
+    exclude_keywords: []
+
+  symphony:
+    enabled: true
+    exclude_keywords:
+      # - "youth orchestra"
+      # - "lobby"
+
+  opera:
+    enabled: true
+    exclude_keywords: []
+
+  ballet:
+    enabled: true
+    # Ballet's calendar includes both performances AND classes.
+    # These regexes drop the classes by default — comment out if you want them.
+    exclude_keywords:
+      - "ballet classes"
+      - "pre-ballet"
+
+  sfjazz:
+    enabled: true
+    exclude_keywords: []
+
+  audio:
+    enabled: true
+    exclude_keywords: []
+
+  tipples:
+    enabled: true
+    exclude_keywords: []
