@@ -2,6 +2,28 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Militarie Gun",
+    "start": "2026-10-13T19:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
+    "description": "with Supporting Talent: Softcult, Shady Nasty, Dazy\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "693468"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "MADDIE ZAHM",
+    "start": "2026-11-20T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/maddie-zahm/694208?afflky=TheChapel",
+    "description": "Maddie Zahm\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694208"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Watch Soccer in our Main Bar",
     "start": "2026-06-28T12:00:00-07:00",
     "end": null,
@@ -31,39 +53,6 @@
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694788"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-25T12:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694787?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694787"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-21T12:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694785?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694785"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch the Finals in our Main Bar",
-    "start": "2026-06-08T17:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694553?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694553"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694561"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Ásgeir",
+    "start": "2026-06-16T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/asgeir/676917?afflky=TheChapel",
+    "description": "with Supporting Talent: Zoë Winter\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "676917"
   }
 ]
