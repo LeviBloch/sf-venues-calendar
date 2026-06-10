@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch the Finals in our Main Bar",
-    "start": "2026-06-10T17:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694559?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694559"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Watch Soccer in our Main Bar",
     "start": "2026-06-11T12:00:00-07:00",
     "end": null,
@@ -112,10 +101,10 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch the Finals in our Main Bar",
+    "title": "Watch the NBA Finals in our Main Bar",
     "start": "2026-06-13T17:30:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694560?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-the-nba-finals-in-our-main-bar/694560?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694560"
@@ -145,10 +134,10 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch the Finals in our Main Bar",
+    "title": "Watch the NBA Finals in our Main Bar",
     "start": "2026-06-16T17:30:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694561?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-the-nba-finals-in-our-main-bar/694561?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694561"
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Zoë Winter\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "676917"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Jesca Hoop",
+    "start": "2026-06-17T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/jesca-hoop/684481?afflky=TheChapel",
+    "description": "with Supporting Talent: Faun Fables\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "684481"
   }
 ]
