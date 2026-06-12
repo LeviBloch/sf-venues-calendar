@@ -47,23 +47,12 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-11T12:00:00-07:00",
+    "start": "2026-06-28T12:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar/694767?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694792?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694767"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-11T12:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar/694767?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694767"
+    "source_uid": "694792"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Faun Fables\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "684481"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-18T18:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694779?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694779"
   }
 ]

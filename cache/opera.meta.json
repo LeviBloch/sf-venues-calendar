@@ -1,5 +1,5 @@
 {
-  "last_error": "All extraction strategies failed for SF Opera at https://www.sfopera.com/calendar/. HTML=189876 bytes, JSON XHRs=9, all XHRs=113. Debug artifact: debug/opera.html",
-  "error_count": 13,
-  "last_attempt": "2026-06-12T04:09:44.825880-07:00"
+  "last_error": "All extraction strategies failed for SF Opera at https://www.sfopera.com/calendar/. HTML=189074 bytes, JSON XHRs=9, all XHRs=115. Debug artifact: debug/opera.html",
+  "error_count": 14,
+  "last_attempt": "2026-06-12T14:05:33.624002-07:00"
 }
