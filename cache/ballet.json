@@ -2,17 +2,6 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
-    "title": "Adult Ballet: Horton Technique",
-    "start": "2026-06-13T19:30:00-07:00",
-    "end": null,
-    "url": "https://www.sfballet.org/productions/adult-ballet-horton-technique/",
-    "description": "1:45 PM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
-    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
-    "source_uid": "adult-ballet-horton-technique|2026-06-13"
-  },
-  {
-    "venue_key": "ballet",
-    "venue_name": "SF Ballet",
     "title": "Ballet Classes for Ages 9–13",
     "start": "2026-06-15T19:30:00-07:00",
     "end": null,
