@@ -2,17 +2,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch the NBA Finals on The Chapel's Big Screen",
-    "start": "2026-06-19T17:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-nba-finals-on-the-chapels-big-screen/695105?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695105"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Hot Flash Heat Wave",
     "start": "2026-10-15T20:00:00-07:00",
     "end": null,
@@ -47,17 +36,6 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-28T12:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694792?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694792"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
     "start": "2026-06-14T12:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694776?afflky=TheChapel",
@@ -68,13 +46,13 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch the NBA Finals in our Main Bar",
-    "start": "2026-06-16T17:30:00-07:00",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-28T12:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-nba-finals-in-our-main-bar/694561?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694792?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694561"
+    "source_uid": "694792"
   },
   {
     "venue_key": "chapel",
@@ -123,17 +101,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch the NBA Finals on The Chapel's Big Screen",
-    "start": "2026-06-19T17:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-nba-finals-on-the-chapels-big-screen/695105?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695105"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Watch Soccer in our Main Bar",
     "start": "2026-06-19T18:00:00-07:00",
     "end": null,
@@ -163,5 +130,38 @@
     "description": "with Supporting Talent: BOLERO!, Mad Alchemy Liquid Light Show\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "679341"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-21T12:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694785?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694785"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Gia Margaret",
+    "start": "2026-06-23T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/gia-margaret/680077?afflky=TheChapel",
+    "description": "with Supporting Talent: Brendan Eder Ensemble\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "680077"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-25T12:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694787?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694787"
   }
 ]
