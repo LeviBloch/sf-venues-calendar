@@ -2,6 +2,28 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Katie Pruitt",
+    "start": "2026-10-29T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Americana",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695190"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Brazil vs. Haiti on The Chapel's Big Screen",
+    "start": "2026-06-19T17:30:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-brazil-vs-haiti-on-the-chapels-big-screen/695105?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695105"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Hot Flash Heat Wave",
     "start": "2026-10-15T20:00:00-07:00",
     "end": null,
@@ -36,23 +58,12 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-14T12:00:00-07:00",
+    "start": "2026-06-16T18:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694776?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/695569?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694776"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-28T12:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694792?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694792"
+    "source_uid": "695569"
   },
   {
     "venue_key": "chapel",
@@ -102,12 +113,23 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-19T18:00:00-07:00",
+    "start": "2026-06-19T12:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694780?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694780"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Brazil vs. Haiti on The Chapel's Big Screen",
+    "start": "2026-06-19T17:30:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-brazil-vs-haiti-on-the-chapels-big-screen/695105?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695105"
   },
   {
     "venue_key": "chapel",
@@ -141,27 +163,5 @@
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694785"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Gia Margaret",
-    "start": "2026-06-23T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/gia-margaret/680077?afflky=TheChapel",
-    "description": "with Supporting Talent: Brendan Eder Ensemble\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "680077"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-25T12:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694787?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694787"
   }
 ]
