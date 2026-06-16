@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "YPC After Dark ft. David Harness",
+    "start": "2026-08-15T21:30:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/ypc-after-dark-ft-david-harness/683564?afflky=TheChapel",
+    "description": "David Harness\nat The Chapel\nGenre: DJ/Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "683564"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Katie Pruitt",
     "start": "2026-10-29T20:00:00-07:00",
     "end": null,
@@ -42,17 +53,6 @@
     "description": "with Supporting Talent: Softcult, Shady Nasty, Dazy\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "693468"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "MADDIE ZAHM",
-    "start": "2026-11-20T21:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/maddie-zahm/694208?afflky=TheChapel",
-    "description": "Maddie Zahm\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694208"
   },
   {
     "venue_key": "chapel",
