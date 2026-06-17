@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "An Evening With Craig Finn & The Band of Forgiveness",
+    "start": "2026-11-15T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/an-evening-with-craig-finn-and-the-band-of-forgiveness/695580?afflky=TheChapel",
+    "description": "Craig Finn\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695580"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "YPC After Dark ft. David Harness",
     "start": "2026-08-15T21:30:00-07:00",
     "end": null,
@@ -28,7 +39,7 @@
     "start": "2026-06-19T17:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/watch-brazil-vs-haiti-on-the-chapels-big-screen/695105?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Sports General",
+    "description": "with Supporting Talent: Plus Love Supreme (DJ Sets)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "695105"
   },
@@ -42,39 +53,6 @@
     "description": "with Supporting Talent: Carpool Tunnel\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "693459"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Militarie Gun",
-    "start": "2026-10-13T19:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
-    "description": "with Supporting Talent: Softcult, Shady Nasty, Dazy\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "693468"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-16T18:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/695569?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695569"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Ásgeir",
-    "start": "2026-06-16T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/asgeir/676917?afflky=TheChapel",
-    "description": "with Supporting Talent: Zoë Winter\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "676917"
   },
   {
     "venue_key": "chapel",
@@ -93,8 +71,8 @@
     "title": "Watch Soccer in our Main Bar",
     "start": "2026-06-18T18:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694779?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "url": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar/694779?afflky=TheChapel",
+    "description": "with Supporting Talent: Plus Love Supreme (DJ Sets)\nat The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694779"
   },
@@ -127,7 +105,7 @@
     "start": "2026-06-19T17:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/watch-brazil-vs-haiti-on-the-chapels-big-screen/695105?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Sports General",
+    "description": "with Supporting Talent: Plus Love Supreme (DJ Sets)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "695105"
   },
@@ -163,5 +141,27 @@
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694785"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Gia Margaret",
+    "start": "2026-06-23T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/gia-margaret/680077?afflky=TheChapel",
+    "description": "with Supporting Talent: Brendan Eder Ensemble\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "680077"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-06-25T20:00:00-07:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
   }
 ]
