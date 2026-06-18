@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Dengue Fever & BOLERO! After Party in The Chapel's Main Bar",
+    "start": "2026-06-20T23:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/dengue-fever-and-bolero-after-party-in-the-chapels-main-bar/694782?afflky=TheChapel",
+    "description": "with Supporting Talent: DJs: Walkin' Love,  Nowandformerly,  Krissa Cupcake,  NickyD,  Kokopelli\nat The Chapel Main Bar\nGenre: DJ/Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694782"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "An Evening With Craig Finn & The Band of Forgiveness",
     "start": "2026-11-15T20:00:00-08:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "with Supporting Talent: Plus Love Supreme (DJ Sets)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "695105"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Hot Flash Heat Wave",
-    "start": "2026-10-15T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/hot-flash-heat-wave/693459?afflky=TheChapel",
-    "description": "with Supporting Talent: Carpool Tunnel\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "693459"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Jesca Hoop",
-    "start": "2026-06-17T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/jesca-hoop/684481?afflky=TheChapel",
-    "description": "with Supporting Talent: Faun Fables\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "684481"
   },
   {
     "venue_key": "chapel",
@@ -115,10 +104,10 @@
     "title": "Watch Soccer in our Main Bar",
     "start": "2026-06-20T13:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694782?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/695984?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694782"
+    "source_uid": "695984"
   },
   {
     "venue_key": "chapel",
@@ -130,6 +119,17 @@
     "description": "with Supporting Talent: BOLERO!, Mad Alchemy Liquid Light Show , DJ Shama Lama\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "679341"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Dengue Fever & BOLERO! After Party in The Chapel's Main Bar",
+    "start": "2026-06-20T23:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/dengue-fever-and-bolero-after-party-in-the-chapels-main-bar/694782?afflky=TheChapel",
+    "description": "with Supporting Talent: DJs: Walkin' Love,  Nowandformerly,  Krissa Cupcake,  NickyD,  Kokopelli\nat The Chapel Main Bar\nGenre: DJ/Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694782"
   },
   {
     "venue_key": "chapel",
