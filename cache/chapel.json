@@ -6,7 +6,7 @@
     "start": "2026-06-20T23:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/dengue-fever-and-bolero-after-party-in-the-chapels-main-bar/694782?afflky=TheChapel",
-    "description": "with Supporting Talent: DJs: Walkin' Love,  Nowandformerly,  Krissa Cupcake,  NickyD,  Kokopelli\nat The Chapel Main Bar\nGenre: DJ/Dance",
+    "description": "with Supporting Talent: DJs: Walkin' Love,  Nowandformerly,  Krisa Cupcake,  NickyD,  and Kokopelli\nat The Chapel Main Bar\nGenre: DJ/Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694782"
   },
@@ -53,28 +53,6 @@
     "description": "with Supporting Talent: Plus Love Supreme (DJ Sets)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "695105"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-18T18:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar/694779?afflky=TheChapel",
-    "description": "with Supporting Talent: Plus Love Supreme (DJ Sets)\nat The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694779"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Private Event",
-    "start": "2026-06-18T20:00:00-07:00",
-    "end": null,
-    "url": "https://thechapelsf.com/private-events/",
-    "description": "at The Chapel\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
   },
   {
     "venue_key": "chapel",
@@ -127,7 +105,7 @@
     "start": "2026-06-20T23:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/dengue-fever-and-bolero-after-party-in-the-chapels-main-bar/694782?afflky=TheChapel",
-    "description": "with Supporting Talent: DJs: Walkin' Love,  Nowandformerly,  Krissa Cupcake,  NickyD,  Kokopelli\nat The Chapel Main Bar\nGenre: DJ/Dance",
+    "description": "with Supporting Talent: DJs: Walkin' Love,  Nowandformerly,  Krisa Cupcake,  NickyD,  and Kokopelli\nat The Chapel Main Bar\nGenre: DJ/Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694782"
   },
@@ -158,6 +136,28 @@
     "venue_name": "The Chapel",
     "title": "Private Event",
     "start": "2026-06-25T20:00:00-07:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-26T17:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694788?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694788"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-06-26T20:00:00-07:00",
     "end": null,
     "url": "https://thechapelsf.com/private-events/",
     "description": "at The Chapel\nGenre: Other Content",
