@@ -58,28 +58,6 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-19T12:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694780?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694780"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Brazil vs. Haiti on The Chapel's Big Screen",
-    "start": "2026-06-19T17:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-brazil-vs-haiti-on-the-chapels-big-screen/695105?afflky=TheChapel",
-    "description": "with Supporting Talent: Plus Love Supreme (DJ Sets)\nat The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695105"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
     "start": "2026-06-20T13:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/695984?afflky=TheChapel",
@@ -163,5 +141,27 @@
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694788"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-06-26T20:00:00-07:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-27T14:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694791?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694791"
   }
 ]
