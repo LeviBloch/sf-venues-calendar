@@ -57,28 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Dengue Fever",
-    "start": "2026-06-20T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/dengue-fever/679341?afflky=TheChapel",
-    "description": "with Supporting Talent: BOLERO!, Mad Alchemy Liquid Light Show , DJ Shama Lama\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "679341"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Dengue Fever & BOLERO! After Party in The Chapel's Main Bar",
-    "start": "2026-06-20T23:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/dengue-fever-and-bolero-after-party-in-the-chapels-main-bar/694782?afflky=TheChapel",
-    "description": "with Supporting Talent: DJs: Walkin' Love,  Nowandformerly,  Krisa Cupcake,  NickyD,  and Kokopelli\nat The Chapel Main Bar\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694782"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Watch Soccer in our Main Bar",
     "start": "2026-06-21T12:00:00-07:00",
     "end": null,
@@ -163,5 +141,27 @@
     "description": "with Supporting Talent: DJ Zanne, DJ Junkyard\nat The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "666550"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer in our Main Bar",
+    "start": "2026-06-28T12:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694792?afflky=TheChapel",
+    "description": "at The Chapel Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694792"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Mexico vs. TBD on The Chapel's Big Screen",
+    "start": "2026-06-30T18:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-mexico-vs-tbd-on-the-chapels-big-screen/696175?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "696175"
   }
 ]
