@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
-    "start": "2026-06-20T13:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/695984?afflky=TheChapel",
-    "description": "at The Chapel Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695984"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Dengue Fever",
     "start": "2026-06-20T21:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694791"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Fleetwood Macramé: A Tribute to Fleetwood Mac",
+    "start": "2026-06-27T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/fleetwood-macrame-a-tribute-to-fleetwood-mac/666550?afflky=TheChapel",
+    "description": "with Supporting Talent: DJ Zanne, DJ Junkyard\nat The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "666550"
   }
 ]
