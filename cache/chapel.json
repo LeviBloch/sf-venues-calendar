@@ -2,6 +2,39 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Amélie Farren, Lilith Max, Rabbitology",
+    "start": "2026-10-16T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/amelie-farren-lilith-max-rabbitology/695956?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695956"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "The War And Treaty",
+    "start": "2026-10-26T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-war-and-treaty/694221?afflky=TheChapel",
+    "description": "The War and Treaty\nat The Chapel\nGenre: Gospel",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694221"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Shawn James",
+    "start": "2026-09-18T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/shawn-james/696157?afflky=TheChapel",
+    "description": "with Supporting Talent: Gravedancer\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "696157"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Watch Mexico vs. TBD on The Chapel's Big Screen",
     "start": "2026-06-30T18:00:00-07:00",
     "end": null,
@@ -13,46 +46,13 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Czechia vs. Mexico on The Chapel's Big Screen",
+    "title": "Watch Mexico vs. Czechia on The Chapel's Big Screen",
     "start": "2026-06-24T18:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-czechia-vs-mexico-on-the-chapels-big-screen/696156?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-mexico-vs-czechia-on-the-chapels-big-screen/696156?afflky=TheChapel",
     "description": "at The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696156"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Dengue Fever & BOLERO! After Party in The Chapel's Main Bar",
-    "start": "2026-06-20T23:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/dengue-fever-and-bolero-after-party-in-the-chapels-main-bar/694782?afflky=TheChapel",
-    "description": "with Supporting Talent: DJs: Walkin' Love,  Nowandformerly,  Krisa Cupcake,  NickyD,  and Kokopelli\nat The Chapel Main Bar\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694782"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "An Evening With Craig Finn & The Band of Forgiveness",
-    "start": "2026-11-15T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/an-evening-with-craig-finn-and-the-band-of-forgiveness/695580?afflky=TheChapel",
-    "description": "Craig Finn\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695580"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "YPC After Dark ft. David Harness",
-    "start": "2026-08-15T21:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/ypc-after-dark-ft-david-harness/683564?afflky=TheChapel",
-    "description": "David Harness\nat The Chapel\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "683564"
   },
   {
     "venue_key": "chapel",
@@ -68,10 +68,10 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Czechia vs. Mexico on The Chapel's Big Screen",
+    "title": "Watch Mexico vs. Czechia on The Chapel's Big Screen",
     "start": "2026-06-24T18:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-czechia-vs-mexico-on-the-chapels-big-screen/696156?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-mexico-vs-czechia-on-the-chapels-big-screen/696156?afflky=TheChapel",
     "description": "at The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696156"
