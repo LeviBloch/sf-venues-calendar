@@ -2,6 +2,28 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Watch USA vs. TBD on The Chapel's Big Screen",
+    "start": "2026-07-01T18:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-usa-vs-tbd-on-the-chapels-big-screen/696695?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "696695"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Cobweb Cabaret",
+    "start": "2026-08-08T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/cobweb-cabaret/696614?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "696614"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Amélie Farren, Lilith Max, Rabbitology",
     "start": "2026-10-16T21:00:00-07:00",
     "end": null,
@@ -35,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Mexico vs. TBD on The Chapel's Big Screen",
-    "start": "2026-06-30T18:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-mexico-vs-tbd-on-the-chapels-big-screen/696175?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696175"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Watch Mexico vs. Czechia on The Chapel's Big Screen",
     "start": "2026-06-24T18:00:00-07:00",
     "end": null,
@@ -57,32 +68,10 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Gia Margaret",
-    "start": "2026-06-23T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/gia-margaret/680077?afflky=TheChapel",
-    "description": "with Supporting Talent: Brendan Eder Ensemble\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "680077"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Mexico vs. Czechia on The Chapel's Big Screen",
-    "start": "2026-06-24T18:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-mexico-vs-czechia-on-the-chapels-big-screen/696156?afflky=TheChapel",
-    "description": "with Supporting Talent: DJ Sets by Guapi\nat The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696156"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
+    "title": "Watch Soccer in Curio",
     "start": "2026-06-25T19:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694787?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-soccer-in-curio/694787?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694787"
@@ -101,10 +90,10 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
+    "title": "Watch Soccer in Curio",
     "start": "2026-06-26T17:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694788?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-soccer-in-curio/694788?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694788"
@@ -123,10 +112,10 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
+    "title": "Watch Soccer in our Main Bar & Curio",
     "start": "2026-06-27T14:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694791?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar-and-curio/694791?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694791"
@@ -145,10 +134,10 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Soccer in our Main Bar",
+    "title": "Watch Soccer in Curio",
     "start": "2026-06-28T12:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694792?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-soccer-in-curio/694792?afflky=TheChapel",
     "description": "at The Chapel Main Bar\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694792"
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696175"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch USA vs. TBD on The Chapel's Big Screen",
+    "start": "2026-07-01T18:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-usa-vs-tbd-on-the-chapels-big-screen/696695?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "696695"
   }
 ]
