@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Watch Soccer in Curio",
+    "start": "2026-06-24T15:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-soccer-in-curio/696696?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "696696"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Watch USA vs. TBD on The Chapel's Big Screen",
     "start": "2026-07-01T18:00:00-07:00",
     "end": null,
@@ -46,13 +57,13 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Shawn James",
-    "start": "2026-09-18T21:00:00-07:00",
+    "title": "Watch Soccer in Curio",
+    "start": "2026-06-24T15:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/shawn-james/696157?afflky=TheChapel",
-    "description": "with Supporting Talent: Gravedancer\nat The Chapel\nGenre: Alternative",
+    "url": "https://wl.seetickets.us/event/watch-soccer-in-curio/696696?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696157"
+    "source_uid": "696696"
   },
   {
     "venue_key": "chapel",
@@ -152,16 +163,5 @@
     "description": "at The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696175"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch USA vs. TBD on The Chapel's Big Screen",
-    "start": "2026-07-01T18:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-usa-vs-tbd-on-the-chapels-big-screen/696695?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696695"
   }
 ]
