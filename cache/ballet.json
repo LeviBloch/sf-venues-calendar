@@ -2,28 +2,6 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
-    "title": "Adult Ballet: Horton Technique",
-    "start": "2026-06-27T19:30:00-07:00",
-    "end": null,
-    "url": "https://www.sfballet.org/productions/adult-ballet-horton-technique/",
-    "description": "1:45 PM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
-    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
-    "source_uid": "adult-ballet-horton-technique|2026-06-27"
-  },
-  {
-    "venue_key": "ballet",
-    "venue_name": "SF Ballet",
-    "title": "Pre-Ballet Classes for Ages 2–8",
-    "start": "2026-06-27T19:30:00-07:00",
-    "end": null,
-    "url": "https://www.sfballet.org/productions/pre-ballet-classes-for-ages-2-8/",
-    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
-    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
-    "source_uid": "pre-ballet-classes-for-ages-2-8|2026-06-27"
-  },
-  {
-    "venue_key": "ballet",
-    "venue_name": "SF Ballet",
     "title": "Ballet Classes for Ages 9–13",
     "start": "2026-06-29T19:30:00-07:00",
     "end": null,
@@ -35,17 +13,6 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
-    "title": "Pre-Ballet Classes for Ages 2–8",
-    "start": "2026-06-30T19:30:00-07:00",
-    "end": null,
-    "url": "https://www.sfballet.org/productions/pre-ballet-classes-for-ages-2-8/",
-    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
-    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
-    "source_uid": "pre-ballet-classes-for-ages-2-8|2026-06-30"
-  },
-  {
-    "venue_key": "ballet",
-    "venue_name": "SF Ballet",
     "title": "Ballet Classes for Ages 9–13",
     "start": "2026-06-30T19:30:00-07:00",
     "end": null,
@@ -53,6 +20,17 @@
     "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
     "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
     "source_uid": "ballet-classes-for-ages-9-13|2026-06-30"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
+    "title": "Pre-Ballet Classes for Ages 2–8",
+    "start": "2026-06-30T19:30:00-07:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/pre-ballet-classes-for-ages-2-8/",
+    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "pre-ballet-classes-for-ages-2-8|2026-06-30"
   },
   {
     "venue_key": "ballet",
@@ -156,17 +134,6 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
-    "title": "Pre-Ballet Classes for Ages 2–8",
-    "start": "2026-07-14T19:30:00-07:00",
-    "end": null,
-    "url": "https://www.sfballet.org/productions/pre-ballet-classes-for-ages-2-8/",
-    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
-    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
-    "source_uid": "pre-ballet-classes-for-ages-2-8|2026-07-14"
-  },
-  {
-    "venue_key": "ballet",
-    "venue_name": "SF Ballet",
     "title": "Ballet Classes for Ages 9–13",
     "start": "2026-07-14T19:30:00-07:00",
     "end": null,
@@ -174,6 +141,17 @@
     "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
     "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
     "source_uid": "ballet-classes-for-ages-9-13|2026-07-14"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
+    "title": "Pre-Ballet Classes for Ages 2–8",
+    "start": "2026-07-14T19:30:00-07:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/pre-ballet-classes-for-ages-2-8/",
+    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "pre-ballet-classes-for-ages-2-8|2026-07-14"
   },
   {
     "venue_key": "ballet",
@@ -233,17 +211,6 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
-    "title": "Pre-Ballet Classes for Ages 2–8",
-    "start": "2026-07-21T19:30:00-07:00",
-    "end": null,
-    "url": "https://www.sfballet.org/productions/pre-ballet-classes-for-ages-2-8/",
-    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
-    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
-    "source_uid": "pre-ballet-classes-for-ages-2-8|2026-07-21"
-  },
-  {
-    "venue_key": "ballet",
-    "venue_name": "SF Ballet",
     "title": "Ballet Classes for Ages 9–13",
     "start": "2026-07-21T19:30:00-07:00",
     "end": null,
@@ -251,6 +218,17 @@
     "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
     "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
     "source_uid": "ballet-classes-for-ages-9-13|2026-07-21"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
+    "title": "Pre-Ballet Classes for Ages 2–8",
+    "start": "2026-07-21T19:30:00-07:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/pre-ballet-classes-for-ages-2-8/",
+    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "pre-ballet-classes-for-ages-2-8|2026-07-21"
   },
   {
     "venue_key": "ballet",
@@ -310,17 +288,6 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
-    "title": "Pre-Ballet Classes for Ages 2–8",
-    "start": "2026-07-28T19:30:00-07:00",
-    "end": null,
-    "url": "https://www.sfballet.org/productions/pre-ballet-classes-for-ages-2-8/",
-    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
-    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
-    "source_uid": "pre-ballet-classes-for-ages-2-8|2026-07-28"
-  },
-  {
-    "venue_key": "ballet",
-    "venue_name": "SF Ballet",
     "title": "Ballet Classes for Ages 9–13",
     "start": "2026-07-28T19:30:00-07:00",
     "end": null,
@@ -328,6 +295,17 @@
     "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
     "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
     "source_uid": "ballet-classes-for-ages-9-13|2026-07-28"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
+    "title": "Pre-Ballet Classes for Ages 2–8",
+    "start": "2026-07-28T19:30:00-07:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/pre-ballet-classes-for-ages-2-8/",
+    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "pre-ballet-classes-for-ages-2-8|2026-07-28"
   },
   {
     "venue_key": "ballet",
