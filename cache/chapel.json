@@ -2,11 +2,11 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch USA vs. TBD on The Chapel's Big Screen",
+    "title": "Watch USA vs Bosnia & Herzegovina on The Chapel's Big Screen",
     "start": "2026-07-01T17:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-usa-vs-tbd-on-the-chapels-big-screen/696695?afflky=TheChapel",
-    "description": "with Supporting Talent: Love Supreme DJ Sets\nat The Chapel\nGenre: Sports General",
+    "url": "https://wl.seetickets.us/event/watch-usa-vs-bosnia-and-herzegovina-on-the-chapels-big-screen/696695?afflky=TheChapel",
+    "description": "Watch USA vs. Bosnia and Herzegovina on The Chapel's Big Screen\nwith Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696695"
   },
@@ -57,21 +57,10 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Soccer in Curio",
-    "start": "2026-06-28T12:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-soccer-in-curio/694792?afflky=TheChapel",
-    "description": "at Curio\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694792"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Soccer in Curio",
+    "title": "Watch Netherlands vs. Morocco in Curio",
     "start": "2026-06-29T18:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-Curio/696912?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-netherlands-vs-morocco-in-curio/696912?afflky=TheChapel",
     "description": "at Curio\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696912"
@@ -79,32 +68,32 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Mexico vs. TBD on The Chapel's Big Screen & in Curio",
+    "title": "Watch Mexico vs. Ecuador on The Chapel's Big Screen",
     "start": "2026-06-30T18:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-mexico-vs-tbd-on-the-chapels-big-screen-and-in-curio/696175?afflky=TheChapel",
-    "description": "with Supporting Talent: Love Supreme DJ Sets\nat The Chapel\nGenre: Sports General",
+    "url": "https://wl.seetickets.us/event/watch-mexico-vs-ecuador-on-the-chapels-big-screen/696175?afflky=TheChapel",
+    "description": "with Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696175"
   },
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch USA vs. TBD on The Chapel's Big Screen",
+    "title": "Watch USA vs Bosnia & Herzegovina on The Chapel's Big Screen",
     "start": "2026-07-01T17:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-usa-vs-tbd-on-the-chapels-big-screen/696695?afflky=TheChapel",
-    "description": "with Supporting Talent: Love Supreme DJ Sets\nat The Chapel\nGenre: Sports General",
+    "url": "https://wl.seetickets.us/event/watch-usa-vs-bosnia-and-herzegovina-on-the-chapels-big-screen/696695?afflky=TheChapel",
+    "description": "Watch USA vs. Bosnia and Herzegovina on The Chapel's Big Screen\nwith Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696695"
   },
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Soccer in Curio",
+    "title": "Watch Switzerland vs. Algeria in Curio",
     "start": "2026-07-02T20:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Soccer-in-Curio/696913?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-switzerland-vs-algeria-in-curio/696913?afflky=TheChapel",
     "description": "at Curio\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696913"
@@ -112,11 +101,11 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Argentina vs. TBD on The Chapel's Big Screen",
+    "title": "Watch Argentina vs. Cabo Verde on The Chapel's Big Screen",
     "start": "2026-07-03T15:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-argentina-vs-tbd-on-the-chapels-big-screen/696749?afflky=TheChapel",
-    "description": "with Supporting Talent: Love Supreme DJ Sets\nat The Chapel\nGenre: Sports General",
+    "url": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-on-the-chapels-big-screen/696749?afflky=TheChapel",
+    "description": "with Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696749"
   },
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "689192"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "White Denim",
+    "start": "2026-07-12T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/white-denim/684732?afflky=TheChapel",
+    "description": "with Supporting Talent: Arc Iris\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "684732"
   }
 ]
