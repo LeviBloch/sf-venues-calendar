@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Netherlands vs. Morocco in Curio",
-    "start": "2026-06-29T18:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-netherlands-vs-morocco-in-curio/696912?afflky=TheChapel",
-    "description": "at Curio\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696912"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Watch Mexico vs. Ecuador on The Chapel's Big Screen",
     "start": "2026-06-30T18:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Arc Iris\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "684732"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Mohama Saz",
+    "start": "2026-07-14T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/mohama-saz/689840?afflky=TheChapel",
+    "description": "with Supporting Talent: Ritmos Tropicosmos, The Seismics\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "689840"
   }
 ]
