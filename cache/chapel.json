@@ -2,17 +2,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch USA vs Bosnia & Herzegovina on The Chapel's Big Screen",
-    "start": "2026-07-01T17:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-usa-vs-bosnia-and-herzegovina-on-the-chapels-big-screen/696695?afflky=TheChapel",
-    "description": "Watch USA vs. Bosnia & Herzegovina on The Chapel's Big Screen\nwith Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696695"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Cobweb Cabaret",
     "start": "2026-08-08T21:00:00-07:00",
     "end": null,
@@ -57,13 +46,13 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch USA vs Bosnia & Herzegovina on The Chapel's Big Screen",
-    "start": "2026-07-01T17:00:00-07:00",
+    "title": "An Evening With Craig Finn & The Band of Forgiveness",
+    "start": "2026-11-15T20:00:00-08:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-usa-vs-bosnia-and-herzegovina-on-the-chapels-big-screen/696695?afflky=TheChapel",
-    "description": "Watch USA vs. Bosnia & Herzegovina on The Chapel's Big Screen\nwith Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
+    "url": "https://wl.seetickets.us/event/an-evening-with-craig-finn-and-the-band-of-forgiveness/695580?afflky=TheChapel",
+    "description": "Craig Finn\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696695"
+    "source_uid": "695580"
   },
   {
     "venue_key": "chapel",
@@ -79,10 +68,10 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Argentina vs. Cabo Verde on The Chapel's Big Screen",
+    "title": "Watch Argentina vs. Cabo Verde in Curio",
     "start": "2026-07-03T15:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-on-the-chapels-big-screen/696749?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-in-curio/696749?afflky=TheChapel",
     "description": "with Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696749"
@@ -97,6 +86,17 @@
     "description": "with Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696851"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch USA vs. Belgium on The Chapel's Big Screen",
+    "start": "2026-07-06T17:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-usa-vs-belgium-on-the-chapels-big-screen/697948?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "697948"
   },
   {
     "venue_key": "chapel",
