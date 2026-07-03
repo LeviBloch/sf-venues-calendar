@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Switzerland vs. Algeria in Curio",
-    "start": "2026-07-02T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-switzerland-vs-algeria-in-curio/696913?afflky=TheChapel",
-    "description": "at Curio\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696913"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Watch Argentina vs. Cabo Verde in Curio & Main Bar",
     "start": "2026-07-03T15:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Ritmos Tropicosmos, The Seismics\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "689840"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Inara George (The Bird and the Bee)  w/ Guest Eleni Mandell",
+    "start": "2026-07-15T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/inara-george-the-bird-and-the-bee-w-guest-eleni-mandell/684441?afflky=TheChapel",
+    "description": "Inara George (of The Bird and the Bee) with Special Guest Eleni Mandell\nwith Supporting Talent: Asha Wells\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "684441"
   }
 ]
