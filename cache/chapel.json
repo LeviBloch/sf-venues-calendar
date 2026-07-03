@@ -68,13 +68,24 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Argentina vs. Cabo Verde in Curio",
+    "title": "Watch Argentina vs. Cabo Verde in Curio & Main Bar",
     "start": "2026-07-03T15:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-in-curio/696749?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-in-curio-and-main-bar/696749?afflky=TheChapel",
     "description": "with Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696749"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Brazil vs. Norway in Curio & Main Bar",
+    "start": "2026-07-05T13:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-brazil-vs-norway-in-curio-and-main-bar/698022?afflky=TheChapel",
+    "description": "at Curio\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698022"
   },
   {
     "venue_key": "chapel",
@@ -152,16 +163,5 @@
     "description": "with Supporting Talent: Ritmos Tropicosmos, The Seismics\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "689840"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Inara George (The Bird and the Bee)  w/ Guest Eleni Mandell",
-    "start": "2026-07-15T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/inara-george-the-bird-and-the-bee-w-guest-eleni-mandell/684441?afflky=TheChapel",
-    "description": "Inara George (of The Bird and the Bee) with Special Guest Eleni Mandell\nwith Supporting Talent: Asha Wells\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "684441"
   }
 ]
