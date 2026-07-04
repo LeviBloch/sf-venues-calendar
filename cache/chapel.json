@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Argentina vs. Cabo Verde in Curio & Main Bar",
-    "start": "2026-07-03T15:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-in-curio-and-main-bar/696749?afflky=TheChapel",
-    "description": "with Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696749"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Watch Brazil vs. Norway in Curio & Main Bar",
     "start": "2026-07-05T13:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Inara George (of The Bird and the Bee) with Special Guest Eleni Mandell\nwith Supporting Talent: Asha Wells\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "684441"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "La Doña & Friends",
+    "start": "2026-07-16T20:00:00-07:00",
+    "end": null,
+    "url": "https://www.kqed.org/event/6586",
+    "description": "with Supporting Talent: Featuring Mxka and Louie El Ser\nat The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
   }
 ]
