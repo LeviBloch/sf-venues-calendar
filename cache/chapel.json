@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Sophie Truax",
+    "start": "2026-09-29T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/sophie-truax/697003?afflky=TheChapel",
+    "description": "with Supporting Talent: Sasha Cee\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "697003"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Cobweb Cabaret",
     "start": "2026-08-08T21:00:00-07:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "with Supporting Talent: Gravedancer\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696157"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "An Evening With Craig Finn & The Band of Forgiveness",
-    "start": "2026-11-15T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/an-evening-with-craig-finn-and-the-band-of-forgiveness/695580?afflky=TheChapel",
-    "description": "Craig Finn\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695580"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch Brazil vs. Norway in Curio & Main Bar",
-    "start": "2026-07-05T13:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-brazil-vs-norway-in-curio-and-main-bar/698022?afflky=TheChapel",
-    "description": "at Curio\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698022"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Voodoo Dolly: Black Siouxsie Tribute, DJ Starr Noir (Nightshift)\nat The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "688000"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Futurebirds",
+    "start": "2026-07-18T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/futurebirds/692839?afflky=TheChapel",
+    "description": "with Supporting Talent: Deloyd Elze\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "692839"
   }
 ]
