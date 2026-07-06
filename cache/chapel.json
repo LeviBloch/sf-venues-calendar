@@ -68,17 +68,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Mexico vs. England on The Chapel's Big Screen",
-    "start": "2026-07-05T17:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-mexico-vs-england-on-the-chapels-big-screen/696851?afflky=TheChapel",
-    "description": "with Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696851"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Watch USA vs. Belgium on The Chapel's Big Screen",
     "start": "2026-07-06T17:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Featuring Mxka and Louie El Ser\nat The Chapel\nGenre: Other Content",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Dead Souls: A Tribute to Joy Division",
+    "start": "2026-07-17T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/dead-souls-a-tribute-to-joy-division/688000?afflky=TheChapel",
+    "description": "with Supporting Talent: Voodoo Dolly: Black Siouxsie Tribute, DJ Starr Noir (Nightshift)\nat The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "688000"
   }
 ]
