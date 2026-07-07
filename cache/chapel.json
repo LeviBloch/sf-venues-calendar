@@ -2,11 +2,22 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "The Cactus Blossoms",
+    "start": "2026-11-14T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-cactus-blossoms/697167?afflky=TheChapel",
+    "description": "with Supporting Talent: Margo Cilker\nat The Chapel\nGenre: Country",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "697167"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "CORDUROY - The Pearl Jam Experience",
     "start": "2026-08-01T20:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/corduroy-the-pearl-jam-experience/698292?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Tribute Act",
+    "description": "with Supporting Talent: ELYSIUM - Nirvana Tribute\nat The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "698292"
   },
@@ -42,28 +53,6 @@
     "description": "at The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "695956"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "The War And Treaty",
-    "start": "2026-10-26T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-war-and-treaty/694221?afflky=TheChapel",
-    "description": "The War and Treaty\nat The Chapel\nGenre: Gospel",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694221"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Watch USA vs. Belgium on The Chapel's Big Screen",
-    "start": "2026-07-06T17:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-usa-vs-belgium-on-the-chapels-big-screen/697948?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "697948"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Deloyd Elze\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "692839"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "LOVE SUPREME Summer Day Party Series",
+    "start": "2026-07-19T14:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/love-supreme-summer-day-party-series/697524?afflky=TheChapel",
+    "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "697524"
   }
 ]
