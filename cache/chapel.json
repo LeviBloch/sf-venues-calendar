@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Robots of the Ancient World",
+    "start": "2026-08-07T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/robots-of-the-ancient-world/698496?afflky=TheChapel",
+    "description": "with Supporting Talent: Zed, The Spiral Electric, The Ghost Next Door\nat The Chapel\nGenre: Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698496"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "The Cactus Blossoms",
     "start": "2026-11-14T21:00:00-08:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "at The Chapel\nGenre: Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696614"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Amélie Farren, Lilith Max, Rabbitology",
-    "start": "2026-10-16T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/amelie-farren-lilith-max-rabbitology/695956?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695956"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Dylan LeBlanc: Cautionary Tale 10 Year Anniversary Tour",
-    "start": "2026-07-07T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/dylan-leblanc-cautionary-tale-10-year-anniversary-tour/691420?afflky=TheChapel",
-    "description": "Dylan LeBlanc\nwith Supporting Talent: Olivia Wolf\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "691420"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "697524"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Babe Rainbow",
+    "start": "2026-07-19T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/babe-rainbow/689075?afflky=TheChapel",
+    "description": "with Supporting Talent: Sam Blasucci\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "689075"
   }
 ]
