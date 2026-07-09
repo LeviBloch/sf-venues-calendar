@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Acid Tongue: The Farewell Show",
+    "start": "2026-09-11T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/acid-tongue-the-farewell-show/698511?afflky=TheChapel",
+    "description": "Acid Tongue\nwith Supporting Talent: Los Dug Dug's\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698511"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Robots of the Ancient World",
     "start": "2026-08-07T20:00:00-07:00",
     "end": null,
@@ -42,17 +53,6 @@
     "description": "with Supporting Talent: Sasha Cee\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "697003"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Cobweb Cabaret",
-    "start": "2026-08-08T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/cobweb-cabaret/696614?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696614"
   },
   {
     "venue_key": "chapel",
@@ -135,7 +135,7 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "La Doña & Friends",
-    "start": "2026-07-16T20:00:00-07:00",
+    "start": "2026-07-16T19:00:00-07:00",
     "end": null,
     "url": "https://www.kqed.org/event/6586",
     "description": "with Supporting Talent: Featuring Mxka and Louie El Ser\nat The Chapel\nGenre: Other Content",
