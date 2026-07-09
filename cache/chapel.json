@@ -68,8 +68,30 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Watch Norway vs. England in Curio & Our Main Bar",
+    "start": "2026-07-11T13:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-norway-vs-england-in-curio-and-our-main-bar/698536?afflky=TheChapel",
+    "description": "at Curio & Main Bar\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698536"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Switzerland vs. Argentina on The Chapel's Big Screen",
+    "start": "2026-07-11T18:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Watch-Switzerland-vs-Argentina-on-The-Chapels-Big-Screen/698549?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698549"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Petty Theft",
-    "start": "2026-07-11T21:00:00-07:00",
+    "start": "2026-07-11T21:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/petty-theft/689192?afflky=TheChapel",
     "description": "at The Chapel\nGenre: Tribute Act",
@@ -141,27 +163,5 @@
     "description": "with Supporting Talent: Deloyd Elze\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "692839"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "LOVE SUPREME Summer Day Party Series",
-    "start": "2026-07-19T14:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/love-supreme-summer-day-party-series/697524?afflky=TheChapel",
-    "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "697524"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Babe Rainbow",
-    "start": "2026-07-19T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/babe-rainbow/689075?afflky=TheChapel",
-    "description": "with Supporting Talent: Sam Blasucci\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "689075"
   }
 ]
