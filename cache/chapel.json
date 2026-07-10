@@ -2,6 +2,28 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Pete Floyd",
+    "start": "2026-01-23T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/pete-floyd/698706?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698706"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Lyrics Born",
+    "start": "2026-10-02T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/lyrics-born/698388?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Hip Hop/Rap",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698388"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Acid Tongue: The Farewell Show",
     "start": "2026-09-11T21:00:00-07:00",
     "end": null,
@@ -31,28 +53,6 @@
     "description": "with Supporting Talent: Margo Cilker\nat The Chapel\nGenre: Country",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "697167"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "CORDUROY - The Pearl Jam Experience",
-    "start": "2026-08-01T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/corduroy-the-pearl-jam-experience/698292?afflky=TheChapel",
-    "description": "with Supporting Talent: ELYSIUM - Nirvana Tribute\nat The Chapel\nGenre: Tribute Act",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698292"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Sophie Truax",
-    "start": "2026-09-29T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/sophie-truax/697003?afflky=TheChapel",
-    "description": "with Supporting Talent: Sasha Cee\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "697003"
   },
   {
     "venue_key": "chapel",

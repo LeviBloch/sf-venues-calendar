@@ -541,6 +541,17 @@
   {
     "venue_key": "dnalounge",
     "venue_name": "DNA Lounge",
+    "title": "Private Party",
+    "start": "2026-08-28T21:00:00-07:00",
+    "end": null,
+    "url": "https://www.dnalounge.com/calendar/2026/08-28.html",
+    "description": "UC Berkeley Haas Music Collective presents\nPRIVATE PARTY\n\n9pm - 2am.\n21+ with ID.\n\nby invitation only.",
+    "location": "DNA Lounge, 375 11th St, San Francisco, CA 94103",
+    "source_uid": "https://www.dnalounge.com/calendar/2026/08-28.html"
+  },
+  {
+    "venue_key": "dnalounge",
+    "venue_name": "DNA Lounge",
     "title": "AniCLover: AniCloversary 7",
     "start": "2026-08-29T19:30:00-07:00",
     "end": null,
