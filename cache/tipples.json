@@ -3,17 +3,6 @@
     "venue_key": "tipples",
     "venue_name": "Mr Tipple's",
     "title": "🎷 Check Mr Tipple's schedule",
-    "start": "2026-07-09T18:00:00-07:00",
-    "end": "2026-07-09T18:15:00-07:00",
-    "url": "https://www.mrtipples.com/",
-    "description": "Weekly reminder — Mr Tipple's books week-to-week. Visit the site for this week's lineup.",
-    "location": "Mr Tipple's, 39 Fell St, San Francisco, CA 94102",
-    "source_uid": "reminder-2026-07-09"
-  },
-  {
-    "venue_key": "tipples",
-    "venue_name": "Mr Tipple's",
-    "title": "🎷 Check Mr Tipple's schedule",
     "start": "2026-07-16T18:00:00-07:00",
     "end": "2026-07-16T18:15:00-07:00",
     "url": "https://www.mrtipples.com/",
@@ -130,5 +119,16 @@
     "description": "Weekly reminder — Mr Tipple's books week-to-week. Visit the site for this week's lineup.",
     "location": "Mr Tipple's, 39 Fell St, San Francisco, CA 94102",
     "source_uid": "reminder-2026-09-24"
+  },
+  {
+    "venue_key": "tipples",
+    "venue_name": "Mr Tipple's",
+    "title": "🎷 Check Mr Tipple's schedule",
+    "start": "2026-10-01T18:00:00-07:00",
+    "end": "2026-10-01T18:15:00-07:00",
+    "url": "https://www.mrtipples.com/",
+    "description": "Weekly reminder — Mr Tipple's books week-to-week. Visit the site for this week's lineup.",
+    "location": "Mr Tipple's, 39 Fell St, San Francisco, CA 94102",
+    "source_uid": "reminder-2026-10-01"
   }
 ]
