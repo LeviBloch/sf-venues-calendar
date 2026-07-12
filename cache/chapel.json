@@ -57,28 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Norway vs. England in Curio & Our Main Bar",
-    "start": "2026-07-11T14:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-norway-vs-england-in-curio-and-our-main-bar/698536?afflky=TheChapel",
-    "description": "at Curio & Main Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698536"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Petty Theft",
-    "start": "2026-07-11T21:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/petty-theft/689192?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Tribute Act",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "689192"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "White Denim",
     "start": "2026-07-12T20:00:00-07:00",
     "end": null,
@@ -163,5 +141,27 @@
     "description": "with Supporting Talent: Sam Blasucci\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "689075"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Friendship",
+    "start": "2026-07-22T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/friendship/693120?afflky=TheChapel",
+    "description": "with Supporting Talent: The Reds,  Pinks & Purples, Cindy\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "693120"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Natural Information Society & Bitchin Bajas",
+    "start": "2026-07-23T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/natural-information-society-and-bitchin-bajas/684112?afflky=TheChapel",
+    "description": "Natural Information Society, Bitchin Bajas\nwith Supporting Talent: Jill Fraser\nat The Chapel\nGenre: Jazz",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "684112"
   }
 ]
