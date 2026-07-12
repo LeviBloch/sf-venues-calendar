@@ -68,17 +68,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Switzerland vs. Argentina on The Chapel's Big Screen",
-    "start": "2026-07-11T18:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Watch-Switzerland-vs-Argentina-on-The-Chapels-Big-Screen/698549?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698549"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Petty Theft",
     "start": "2026-07-11T21:30:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "697524"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Babe Rainbow",
+    "start": "2026-07-19T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/babe-rainbow/689075?afflky=TheChapel",
+    "description": "with Supporting Talent: Sam Blasucci\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "689075"
   }
 ]
