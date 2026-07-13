@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Buzzcocks",
+    "start": "2026-11-11T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/buzzcocks/695321?afflky=TheChapel",
+    "description": "with Supporting Talent: Modern English, Grade 2\nat The Chapel\nGenre: Punk",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695321"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Pete Floyd",
     "start": "2026-01-23T21:00:00-08:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "with Supporting Talent: Zed, The Spiral Electric, The Ghost Next Door\nat The Chapel\nGenre: Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "698496"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "The Cactus Blossoms",
-    "start": "2026-11-14T21:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-cactus-blossoms/697167?afflky=TheChapel",
-    "description": "with Supporting Talent: Margo Cilker\nat The Chapel\nGenre: Country",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "697167"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "White Denim",
-    "start": "2026-07-12T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/white-denim/684732?afflky=TheChapel",
-    "description": "with Supporting Talent: Arc Iris\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "684732"
   },
   {
     "venue_key": "chapel",
@@ -119,6 +108,17 @@
     "description": "with Supporting Talent: Deloyd Elze\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "692839"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Soccer on The Chapel's Big Screen",
+    "start": "2026-07-19T12:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-soccer-on-the-chapels-big-screen/698948?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698948"
   },
   {
     "venue_key": "chapel",
