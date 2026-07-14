@@ -2,11 +2,33 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Buzzcocks",
+    "title": "Marc Broussard",
+    "start": "2026-11-12T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/marc-broussard/694235?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Soul",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694235"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Magic Sword",
+    "start": "2026-09-16T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/magic-sword/698674?afflky=TheChapel",
+    "description": "with Supporting Talent: Skylimit\nat The Chapel\nGenre: Electronic",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698674"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Buzzcocks: Celebrating 50 Years of Buzzcocks",
     "start": "2026-11-11T20:00:00-08:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/buzzcocks/695321?afflky=TheChapel",
-    "description": "with Supporting Talent: Modern English, Grade 2\nat The Chapel\nGenre: Punk",
+    "url": "https://wl.seetickets.us/event/buzzcocks-celebrating-50-years-of-buzzcocks/695321?afflky=TheChapel",
+    "description": "Buzzcocks\nwith Supporting Talent: Modern English, Grade 2\nat The Chapel\nGenre: Punk",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "695321"
   },
@@ -31,28 +53,6 @@
     "description": "at The Chapel\nGenre: Hip Hop/Rap",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "698388"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Acid Tongue: The Farewell Show",
-    "start": "2026-09-11T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/acid-tongue-the-farewell-show/698511?afflky=TheChapel",
-    "description": "Acid Tongue\nwith Supporting Talent: Los Dug Dug's\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698511"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Robots of the Ancient World",
-    "start": "2026-08-07T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/robots-of-the-ancient-world/698496?afflky=TheChapel",
-    "description": "with Supporting Talent: Zed, The Spiral Electric, The Ghost Next Door\nat The Chapel\nGenre: Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698496"
   },
   {
     "venue_key": "chapel",
