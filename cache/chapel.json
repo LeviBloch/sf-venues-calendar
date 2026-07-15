@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Mohama Saz",
-    "start": "2026-07-14T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/mohama-saz/689840?afflky=TheChapel",
-    "description": "with Supporting Talent: Ritmos Tropicosmos, The Seismics\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "689840"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Inara George (The Bird and the Bee)  w/ Guest Eleni Mandell",
     "start": "2026-07-15T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Natural Information Society, Bitchin Bajas\nwith Supporting Talent: Jill Fraser\nat The Chapel\nGenre: Jazz",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "684112"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "James McMurtry and the Martial Law Review",
+    "start": "2026-07-24T20:30:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685861?afflky=TheChapel",
+    "description": "James McMurtry\nwith Supporting Talent: BettySoo\nat The Chapel\nGenre: Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "685861"
   }
 ]

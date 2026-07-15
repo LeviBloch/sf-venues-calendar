@@ -255,6 +255,17 @@
   {
     "venue_key": "dnalounge",
     "venue_name": "DNA Lounge",
+    "title": "San Frandisco",
+    "start": "2026-07-31T21:30:00-07:00",
+    "end": null,
+    "url": "https://www.dnalounge.com/calendar/2026/07-31.html",
+    "description": "SAN FRANDISCO\n\nMain Room:\n\n  Mackswell\n  Saint Triste\n  Andy\n\nA night of UK Garage, House, Techno, and Nu-Disco featuring an eclectic mix of timeless classics, underground favorites, and the modern dance floor sound.\n\nBuy tickets: https://www.dnalounge.com/calendar/2026/07-31.html\n\nnudisco. house. techno. ukg.\n9:30pm - 2:30am.\n18+ with ID.\n\n$10 limited advance;\n$15 after;\n$22 door.",
+    "location": "DNA Lounge, 375 11th St, San Francisco, CA 94103",
+    "source_uid": "https://www.dnalounge.com/calendar/2026/07-31.html"
+  },
+  {
+    "venue_key": "dnalounge",
+    "venue_name": "DNA Lounge",
     "title": "ShallowSky",
     "start": "2026-07-31T19:00:00-07:00",
     "end": null,
