@@ -57,28 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch France vs. England in Curio Bar",
-    "start": "2026-07-18T14:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-france-vs-england-in-curio-bar/699523?afflky=TheChapel",
-    "description": "at Curio Bar\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699523"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Futurebirds",
-    "start": "2026-07-18T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/futurebirds/692839?afflky=TheChapel",
-    "description": "with Supporting Talent: Deloyd Elze\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "692839"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Watch Spain vs. Argentina on The Chapel's Big Screen",
     "start": "2026-07-19T12:00:00-07:00",
     "end": null,
@@ -163,5 +141,27 @@
     "description": "with Supporting Talent: Lealani, Heat\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "692739"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "The Crosseyed",
+    "start": "2026-07-31T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-crosseyed/692844?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "692844"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "CORDUROY - The Pearl Jam Experience",
+    "start": "2026-08-01T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/corduroy-the-pearl-jam-experience/698292?afflky=TheChapel",
+    "description": "with Supporting Talent: ELYSIUM - Nirvana Tribute\nat The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698292"
   }
 ]
