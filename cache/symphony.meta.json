@@ -1,5 +1,5 @@
 {
-  "last_error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.sfsymphony.org/Buy-Tickets/Calendar\", waiting until \"domcontentloaded\"\n",
-  "error_count": 89,
-  "last_attempt": "2026-07-20T03:20:52.569417-07:00"
+  "last_error": "All extraction strategies failed for SF Symphony at https://www.sfsymphony.org/Calendar. HTML=297207 bytes, JSON XHRs=14, all XHRs=98. Debug artifact: debug/symphony.html",
+  "error_count": 90,
+  "last_attempt": "2026-07-20T13:39:54.876005-07:00"
 }

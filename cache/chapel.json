@@ -57,39 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch Spain vs. Argentina on The Chapel's Big Screen",
-    "start": "2026-07-19T12:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-spain-vs-argentina-on-the-chapels-big-screen/698948?afflky=TheChapel",
-    "description": "with Supporting Talent: DJ Sets by Travie Bobbito (Love Supreme)\nat The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698948"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "LOVE SUPREME Summer Day Party Series",
-    "start": "2026-07-19T14:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/love-supreme-summer-day-party-series/697524?afflky=TheChapel",
-    "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "697524"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Babe Rainbow",
-    "start": "2026-07-19T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/babe-rainbow/689075?afflky=TheChapel",
-    "description": "with Supporting Talent: Sam Blasucci, DJ Walkin' Love\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "689075"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Friendship",
     "start": "2026-07-22T20:00:00-07:00",
     "end": null,
@@ -163,5 +130,38 @@
     "description": "with Supporting Talent: ELYSIUM - Nirvana Tribute\nat The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "698292"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Alela Diane",
+    "start": "2026-08-06T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/alela-diane/688615?afflky=TheChapel",
+    "description": "with Supporting Talent: Shannon Lay\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "688615"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Robots of the Ancient World",
+    "start": "2026-08-07T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/robots-of-the-ancient-world/698496?afflky=TheChapel",
+    "description": "with Supporting Talent: Zed, The Spiral Electric, The Ghost Next Door\nat The Chapel\nGenre: Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698496"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Cobweb Cabaret",
+    "start": "2026-08-08T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/cobweb-cabaret/696614?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "696614"
   }
 ]
