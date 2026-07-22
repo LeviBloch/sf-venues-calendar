@@ -2,6 +2,50 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Celebrating 50 Years of Buzzcocks",
+    "start": "2026-11-10T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695312?afflky=TheChapel",
+    "description": "Buzzcocks\nwith Supporting Talent: Modern English, Grade 2\nat The Chapel\nGenre: Punk",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695312"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Rose City Band",
+    "start": "2026-09-26T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Rose-City-Band/699842?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Country",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "699842"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Rose City Band",
+    "start": "2026-09-25T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/rose-city-band/699837?afflky=TheChapel",
+    "description": "with Supporting Talent: Rain Parade\nat The Chapel\nGenre: Country",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "699837"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Bobby Bare Jr. (of Guided By Voices)",
+    "start": "2026-09-14T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
+    "description": "Bobby Bare,  Jr.\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "699388"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Pink Breath of Heaven",
     "start": "2026-09-10T20:00:00-07:00",
     "end": null,
@@ -9,50 +53,6 @@
     "description": "with Supporting Talent: Topographies, Christina's Trip\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "699436"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Pink Breath of Heaven",
-    "start": "2026-09-03T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/pink-breath-of-heaven/699433?afflky=TheChapel",
-    "description": "with Supporting Talent: Chime School, r.image\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699433"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Marc Broussard",
-    "start": "2026-11-12T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/marc-broussard/694235?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Soul",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694235"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Magic Sword",
-    "start": "2026-09-16T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/magic-sword/698674?afflky=TheChapel",
-    "description": "with Supporting Talent: Skylimit\nat The Chapel\nGenre: Electronic",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698674"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Celebrating 50 Years of Buzzcocks",
-    "start": "2026-11-11T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695321?afflky=TheChapel",
-    "description": "Buzzcocks\nwith Supporting Talent: Modern English, Grade 2\nat The Chapel\nGenre: Punk",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695321"
   },
   {
     "venue_key": "chapel",
