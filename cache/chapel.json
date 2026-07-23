@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Friendship",
-    "start": "2026-07-22T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/friendship/693120?afflky=TheChapel",
-    "description": "with Supporting Talent: The Reds,  Pinks & Purples, Cindy\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "693120"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Natural Information Society & Bitchin Bajas",
     "start": "2026-07-23T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "696614"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Deradoorian",
+    "start": "2026-08-09T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/deradoorian/694766?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694766"
   }
 ]
