@@ -58,17 +58,6 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "James McMurtry and the Martial Law Review",
-    "start": "2026-07-24T20:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685861?afflky=TheChapel",
-    "description": "James McMurtry\nwith Supporting Talent: BettySoo\nat The Chapel\nGenre: Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "685861"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "James McMurtry and the Martial Law Review",
     "start": "2026-07-25T20:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685865?afflky=TheChapel",
@@ -163,5 +152,16 @@
     "description": "Afrolicious\nat The Chapel\nGenre: Afrobeats",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "699854"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Man Man",
+    "start": "2026-08-14T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/man-man/685629?afflky=TheChapel",
+    "description": "with Supporting Talent: American Tomahawk\nat The Chapel\nGenre: Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "685629"
   }
 ]
