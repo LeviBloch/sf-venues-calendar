@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "An Evening With Legend Zeppelin",
+    "start": "2026-11-06T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/an-evening-with-legend-zeppelin/699678?afflky=TheChapel",
+    "description": "Legend Zeppelin\nat The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "699678"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "An Evening With Afrolicious",
     "start": "2026-08-13T20:00:00-07:00",
     "end": null,
@@ -42,17 +53,6 @@
     "description": "with Supporting Talent: Rain Parade\nat The Chapel\nGenre: Country",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "699837"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Bobby Bare Jr. (of Guided By Voices)",
-    "start": "2026-09-14T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
-    "description": "Bobby Bare,  Jr.\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699388"
   },
   {
     "venue_key": "chapel",
