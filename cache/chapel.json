@@ -90,6 +90,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Sumyer of Love: OSL Pre-Party",
+    "start": "2026-08-06T18:00:00-07:00",
+    "end": null,
+    "url": "https://www.eventbrite.com/e/sumyer-of-love-osl-pre-party-tickets-1995041401537",
+    "description": "with Supporting Talent: Music by Seth Finkin & Malki\nat Curio\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Alela Diane",
     "start": "2026-08-06T20:00:00-07:00",
     "end": null,
@@ -152,16 +163,5 @@
     "description": "with Supporting Talent: American Tomahawk\nat The Chapel\nGenre: Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "685629"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "YPC After Dark ft. David Harness",
-    "start": "2026-08-15T21:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/ypc-after-dark-ft-david-harness/683564?afflky=TheChapel",
-    "description": "David Harness\nat The Chapel\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "683564"
   }
 ]
