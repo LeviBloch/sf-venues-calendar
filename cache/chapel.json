@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "The Crosseyed",
-    "start": "2026-07-31T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-crosseyed/692844?afflky=TheChapel",
-    "description": "with Supporting Talent: DJ Walkin' Love\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "692844"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "CORDUROY - The Pearl Jam Experience",
     "start": "2026-08-01T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "David Harness\nat The Chapel\nGenre: DJ/Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "683564"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "LOVE SUPREME Summer Day Party Series",
+    "start": "2026-08-16T14:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697819?afflky=TheChapel",
+    "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "697819"
   }
 ]
