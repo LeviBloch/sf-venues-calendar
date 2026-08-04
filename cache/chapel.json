@@ -2,6 +2,39 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Sister Nancy & The Steady Rock Band",
+    "start": "2026-09-04T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/sister-nancy-and-the-steady-rock-band/701232?afflky=TheChapel",
+    "description": "Sister Nancy\nat The Chapel\nGenre: Reggae",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "701232"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Geneva Jacuzzi",
+    "start": "2026-09-19T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/geneva-jacuzzi/701181?afflky=TheChapel",
+    "description": "with Supporting Talent: Ex-Heir, Diesel Dudes, Nick Moss (DJ Set)\nat The Chapel\nGenre: Pop",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "701181"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "John Carroll Kirby",
+    "start": "2026-11-18T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Jazz",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "700565"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "GAURI B: YEARS IN THE BREAKING",
     "start": "2026-12-01T20:00:00-08:00",
     "end": null,
@@ -20,39 +53,6 @@
     "description": "Legend Zeppelin\nat The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "699678"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "An Evening With Afrolicious",
-    "start": "2026-08-13T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/an-evening-with-afrolicious/699854?afflky=TheChapel",
-    "description": "Afrolicious\nat The Chapel\nGenre: Afrobeats",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699854"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Celebrating 50 Years of Buzzcocks",
-    "start": "2026-11-10T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695312?afflky=TheChapel",
-    "description": "Buzzcocks\nwith Supporting Talent: Modern English, Grade 2\nat The Chapel\nGenre: Punk",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695312"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Rose City Band",
-    "start": "2026-09-26T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Rose-City-Band/699842?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Country",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699842"
   },
   {
     "venue_key": "chapel",
