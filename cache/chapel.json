@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Alela Diane",
-    "start": "2026-08-06T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/alela-diane/688615?afflky=TheChapel",
-    "description": "with Supporting Talent: Shannon Lay\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "688615"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Robots of the Ancient World",
     "start": "2026-08-07T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Tianna Esperanza\nat The Chapel\nGenre: R&B",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "686246"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Valerie June",
+    "start": "2026-08-18T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/valerie-june/686251?afflky=TheChapel",
+    "description": "with Supporting Talent: Tianna Esperanza\nat The Chapel\nGenre: R&B",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "686251"
   }
 ]
