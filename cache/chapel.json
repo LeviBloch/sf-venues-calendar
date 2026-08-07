@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Sumyer of Love: OSL Pre-Party",
-    "start": "2026-08-06T20:00:00-07:00",
-    "end": null,
-    "url": "https://www.eventbrite.com/e/sumyer-of-love-osl-pre-party-tickets-1995041401537",
-    "description": "with Supporting Talent: Music by Seth Finkin & Malki\nat Curio\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Alela Diane",
     "start": "2026-08-06T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Other Content",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Valerie June",
+    "start": "2026-08-17T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/valerie-june/686246?afflky=TheChapel",
+    "description": "with Supporting Talent: Tianna Esperanza\nat The Chapel\nGenre: R&B",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "686246"
   }
 ]
