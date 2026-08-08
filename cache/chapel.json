@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Robots of the Ancient World",
-    "start": "2026-08-07T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/robots-of-the-ancient-world/698496?afflky=TheChapel",
-    "description": "with Supporting Talent: Zed, The Spiral Electric, The Ghost Next Door\nat The Chapel\nGenre: Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698496"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Cobweb Cabaret",
     "start": "2026-08-08T21:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Tianna Esperanza\nat The Chapel\nGenre: R&B",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "686251"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Black Joe Lewis & The Honeybears",
+    "start": "2026-08-20T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/black-joe-lewis-and-the-honeybears/690098?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Blues",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "690098"
   }
 ]

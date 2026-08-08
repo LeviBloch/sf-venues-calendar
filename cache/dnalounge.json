@@ -442,6 +442,17 @@
   {
     "venue_key": "dnalounge",
     "venue_name": "DNA Lounge",
+    "title": "J-Block Party",
+    "start": "2026-09-12T15:00:00-07:00",
+    "end": null,
+    "url": "https://www.dnalounge.com/calendar/2026/09-12c.html",
+    "description": "Performing Live:\n\n  AIMAI MIRAI\n  PETTY TACTIC\n  HALF PAST MIDNIGHT\n\nBaam and AniClover are teaming up for our first live band event at the DNA Lounge. Featuring three Bay Area anisong bands in one night, join us for an incredible evening of fun and music!\n\nanime. j-rock.\n3pm - 7pm.\n18+ with ID.\n\n$20 limited advance;\n$24 after;\n$32 day of show.\n\nBuy tickets: https://www.dnalounge.com/calendar/2026/09-12c.html",
+    "location": "DNA Lounge, 375 11th St, San Francisco, CA 94103",
+    "source_uid": "https://www.dnalounge.com/calendar/2026/09-12c.html"
+  },
+  {
+    "venue_key": "dnalounge",
+    "venue_name": "DNA Lounge",
     "title": "Secret Psychedelica",
     "start": "2026-09-12T21:00:00-07:00",
     "end": null,
