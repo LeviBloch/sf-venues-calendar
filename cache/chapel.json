@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Cobweb Cabaret",
-    "start": "2026-08-08T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/cobweb-cabaret/696614?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696614"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Deradoorian",
     "start": "2026-08-09T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Blues",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "690098"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Electric Duke: Bowie Tribute, Temptation: New Order Tribute",
+    "start": "2026-08-21T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/electric-duke-bowie-tribute-temptation-new-order-tribute/693149?afflky=TheChapel",
+    "description": "Electric Duke, Temptation - Tribute to New Order\nat The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "693149"
   }
 ]
