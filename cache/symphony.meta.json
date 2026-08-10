@@ -1,5 +1,5 @@
 {
-  "last_error": "All extraction strategies failed for SF Symphony at https://waitingroom.sfsymphony.org/?c=sfsymphony&e=sitesafetynet&ver=aspnet-4.4.1&cver=30&man=Site%20Safetynet&t=https%3A%2F%2Fwww.sfsymphony.org%2FBuy-Tickets%2FCalendar. HTML=37172 bytes, JSON XHRs=12, all XHRs=27. Debug artifact: debug/symphony.html",
-  "error_count": 130,
-  "last_attempt": "2026-08-09T12:47:45.598384-07:00"
+  "last_error": "All extraction strategies failed for SF Symphony at https://www.sfsymphony.org/Calendar. HTML=280413 bytes, JSON XHRs=14, all XHRs=91. Debug artifact: debug/symphony.html",
+  "error_count": 131,
+  "last_attempt": "2026-08-10T01:49:51.305291-07:00"
 }

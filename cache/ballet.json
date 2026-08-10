@@ -2,17 +2,6 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
-    "title": "Jacob’s Pillow Festival",
-    "start": "2026-08-09T19:30:00-07:00",
-    "end": null,
-    "url": "https://www.sfballet.org/productions/jacobs-pillow-festival/",
-    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
-    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
-    "source_uid": "jacobs-pillow-festival|2026-08-09"
-  },
-  {
-    "venue_key": "ballet",
-    "venue_name": "SF Ballet",
     "title": "Adult Ballet: Horton Technique",
     "start": "2026-08-15T19:30:00-07:00",
     "end": null,
