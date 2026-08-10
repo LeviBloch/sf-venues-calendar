@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Deradoorian",
-    "start": "2026-08-09T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/deradoorian/694766?afflky=TheChapel",
-    "description": "with Supporting Talent: Squiggle\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694766"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "An Evening With Afrolicious",
     "start": "2026-08-13T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Electric Duke, Temptation - Tribute to New Order\nat The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "693149"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Cocteaufest SF Night #2 with Simon Raymonde (DJ Set)",
+    "start": "2026-08-22T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/cocteaufest-sf-night-2-with-simon-raymonde-dj-set/684955?afflky=TheChapel",
+    "description": "Simon Raymonde\nwith Supporting Talent: Sugar Hiccup, Mocteau Twins\nat The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "684955"
   }
 ]
