@@ -475,6 +475,17 @@
   {
     "venue_key": "dnalounge",
     "venue_name": "DNA Lounge",
+    "title": "Why 2K",
+    "start": "2026-09-19T22:00:00-07:00",
+    "end": null,
+    "url": "https://www.dnalounge.com/calendar/2026/09-19.html",
+    "description": "WHY 2K\n\nMain Room:\n\n  Whatsupalbert\n  Ant-One\n  Andy\n\nThrow it back to the best of the '90s and 2000s at our Throwback Dance Party! From Britney and Nsync to the Spice Girls and MC Hammer, we're spinning all the hits that defined a generation. Whether you grew up with flip phones or you just love the nostalgic vibes, come relive the golden days and dance all night with us. Grab your crew and let's party like it's 1999 (and 2009).\n\nBuy tickets: https://www.dnalounge.com/calendar/2026/09-19.html\n\nWatch and listen:\n  Why 2k: https://youtu.be/FHNjtK4YBmM\n\n90s pop. 2000s pop. hiphop. r&b. dance hits. remixes. indie.\n10pm - 2:30am.\n18+ with ID.\n\n$10 limited advance;\n$15 after;\n$22 door.",
+    "location": "DNA Lounge, 375 11th St, San Francisco, CA 94103",
+    "source_uid": "https://www.dnalounge.com/calendar/2026/09-19.html"
+  },
+  {
+    "venue_key": "dnalounge",
+    "venue_name": "DNA Lounge",
     "title": "Hubba Hubba Revue",
     "start": "2026-09-20T19:00:00-07:00",
     "end": null,
