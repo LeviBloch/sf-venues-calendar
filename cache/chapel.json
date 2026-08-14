@@ -6,7 +6,7 @@
     "start": "2026-10-14T19:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/dummy/700215?afflky=TheChapel",
-    "description": "with Supporting Talent: Golomb, figure eight, Sachi's Mirror\nat The Chapel\nGenre: Alternative",
+    "description": "with Supporting Talent: Golomb, figure eight, sachi's mirror\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "700215"
   },
@@ -53,17 +53,6 @@
     "description": "with Supporting Talent: Ex-Heir, Diesel Dudes, Nick Moss (DJ Set)\nat The Chapel\nGenre: Pop",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "701181"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "An Evening With Afrolicious",
-    "start": "2026-08-13T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/an-evening-with-afrolicious/699854?afflky=TheChapel",
-    "description": "Afrolicious\nwith Supporting Talent: Two Full Live Sets & DJ Sets\nat The Chapel\nGenre: Afrobeats",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699854"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "Simon Raymonde\nwith Supporting Talent: Sugar Hiccup, Mocteau Twins\nat The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "684955"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Built to Spill",
+    "start": "2026-08-23T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/built-to-spill/683036?afflky=TheChapel",
+    "description": "with Supporting Talent: PLAYDEAD\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "683036"
   }
 ]
