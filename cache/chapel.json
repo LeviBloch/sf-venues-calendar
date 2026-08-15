@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Man Man",
-    "start": "2026-08-14T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/man-man/685629?afflky=TheChapel",
-    "description": "with Supporting Talent: American Tomahawk\nat The Chapel\nGenre: Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "685629"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "YPC After Dark ft. David Harness",
     "start": "2026-08-15T21:30:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: PLAYDEAD\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "683036"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Built to Spill",
+    "start": "2026-08-24T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/built-to-spill/683043?afflky=TheChapel",
+    "description": "with Supporting Talent: PLAYDEAD\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "683043"
   }
 ]
