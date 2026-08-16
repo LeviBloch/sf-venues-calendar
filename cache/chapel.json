@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "YPC After Dark ft. David Harness",
-    "start": "2026-08-15T21:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/ypc-after-dark-ft-david-harness/683564?afflky=TheChapel",
-    "description": "David Harness\nat The Chapel\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "683564"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "LOVE SUPREME Summer Day Party Series",
     "start": "2026-08-16T14:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: PLAYDEAD\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "683043"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Built to Spill",
+    "start": "2026-08-25T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/built-to-spill/683046?afflky=TheChapel",
+    "description": "with Supporting Talent: PLAYDEAD\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "683046"
   }
 ]
