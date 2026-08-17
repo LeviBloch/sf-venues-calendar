@@ -57,28 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "LOVE SUPREME Summer Day Party Series",
-    "start": "2026-08-16T14:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697819?afflky=TheChapel",
-    "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "697819"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Private Event",
-    "start": "2026-08-16T20:00:00-07:00",
-    "end": null,
-    "url": "https://thechapelsf.com/private-events/",
-    "description": "at The Chapel\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Valerie June",
     "start": "2026-08-17T20:00:00-07:00",
     "end": null,
@@ -163,5 +141,27 @@
     "description": "with Supporting Talent: PLAYDEAD\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "683046"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "OSEES ft. Brigid Dawson",
+    "start": "2026-08-26T20:30:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672239?afflky=TheChapel",
+    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "672239"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "OSEES ft. Brigid Dawson",
+    "start": "2026-08-27T20:30:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672246?afflky=TheChapel",
+    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "672246"
   }
 ]
