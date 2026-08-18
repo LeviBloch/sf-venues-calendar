@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Lee DeWyze",
+    "start": "2026-10-05T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/lee-dewyze/702686?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "702686"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Dummy",
     "start": "2026-10-14T19:30:00-07:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "Sister Nancy\nat The Chapel\nGenre: Reggae",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "701232"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Geneva Jacuzzi",
-    "start": "2026-09-19T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/geneva-jacuzzi/701181?afflky=TheChapel",
-    "description": "with Supporting Talent: Ex-Heir, Diesel Dudes, Nick Moss (DJ Set)\nat The Chapel\nGenre: Pop",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "701181"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Valerie June",
-    "start": "2026-08-17T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/valerie-june/686246?afflky=TheChapel",
-    "description": "with Supporting Talent: Tianna Esperanza\nat The Chapel\nGenre: R&B",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "686246"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "672246"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "OSEES ft. Brigid Dawson",
+    "start": "2026-08-28T20:30:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672247?afflky=TheChapel",
+    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS, Gumby’s Junk\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "672247"
   }
 ]
