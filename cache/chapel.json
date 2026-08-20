@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Y La Bamba - 10 Years of Ojos Del Sol",
+    "start": "2026-10-08T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/y-la-bamba-10-years-of-ojos-del-sol/703013?afflky=TheChapel",
+    "description": "Y La Bamba\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "703013"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Lee DeWyze",
     "start": "2026-10-05T20:00:00-07:00",
     "end": null,
@@ -42,17 +53,6 @@
     "description": "Rebirth Brass Band\nat The Chapel\nGenre: Funk",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "701503"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Sister Nancy & The Steady Rock Band",
-    "start": "2026-09-04T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/sister-nancy-and-the-steady-rock-band/701232?afflky=TheChapel",
-    "description": "Sister Nancy\nat The Chapel\nGenre: Reggae",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "701232"
   },
   {
     "venue_key": "chapel",

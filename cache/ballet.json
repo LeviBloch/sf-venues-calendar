@@ -145,6 +145,28 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
+    "title": "Tiny Dances",
+    "start": "2026-11-07T19:30:00-08:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/tiny-dances/5961/",
+    "description": "11:00 AM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "Tiny Dances|2026-11-07"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
+    "title": "Tiny Dances",
+    "start": "2026-11-08T19:30:00-08:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/tiny-dances/5963/",
+    "description": "11:00 AM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "Tiny Dances|2026-11-08"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
     "title": "Nutcracker",
     "start": "2026-12-04T19:30:00-08:00",
     "end": null,
