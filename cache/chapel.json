@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Valerie June",
-    "start": "2026-08-18T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/valerie-june/686251?afflky=TheChapel",
-    "description": "with Supporting Talent: Tianna Esperanza\nat The Chapel\nGenre: R&B",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "686251"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Black Joe Lewis & The Honeybears",
     "start": "2026-08-20T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS, Gumby’s Junk\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "672247"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "OSEES ft. Brigid Dawson",
+    "start": "2026-08-29T20:30:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672248?afflky=TheChapel",
+    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "672248"
   }
 ]
