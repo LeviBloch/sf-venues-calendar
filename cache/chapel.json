@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Black Joe Lewis & The Honeybears",
-    "start": "2026-08-20T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/black-joe-lewis-and-the-honeybears/690098?afflky=TheChapel",
-    "description": "with Supporting Talent: Chris Guthridge\nat The Chapel\nGenre: Blues",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "690098"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Electric Duke: Bowie Tribute, Temptation: New Order Tribute",
     "start": "2026-08-21T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "672248"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Pink Breath of Heaven",
+    "start": "2026-09-03T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/pink-breath-of-heaven/699433?afflky=TheChapel",
+    "description": "with Supporting Talent: Chime School, r.image\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "699433"
   }
 ]
