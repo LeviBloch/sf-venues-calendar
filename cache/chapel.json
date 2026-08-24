@@ -35,11 +35,11 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Femmes, Thems & Friends: A Folsom Kickoff Party",
+    "title": "Femmes, Thems, And Friends: A Folsom Kickoff Party",
     "start": "2026-09-24T20:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/femmes-thems-and-friends-a-folsom-kickoff-party/702095?afflky=TheChapel",
-    "description": "with Supporting Talent: Furious Tits, 37 Houses, Black Gold Sun\nat The Chapel\nGenre: Benefit",
+    "description": "with Supporting Talent: The Furious Tits, 37 Houses, Black Gold Sun\nat The Chapel\nGenre: Benefit",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "702095"
   },
@@ -53,17 +53,6 @@
     "description": "Rebirth Brass Band\nat The Chapel\nGenre: Funk",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "701503"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Built to Spill",
-    "start": "2026-08-23T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/built-to-spill/683036?afflky=TheChapel",
-    "description": "with Supporting Talent: PLAYDEAD\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "683036"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "Drink the Sea\nwith Supporting Talent: Feat. Peter Buck,  Barrett Martin,  Alain Johannes,  Duke Garwood,  Lisette Garcia\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "691451"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Pink Breath of Heaven",
+    "start": "2026-09-10T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/pink-breath-of-heaven/699436?afflky=TheChapel",
+    "description": "with Supporting Talent: Topographies, Christina's Trip\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "699436"
   }
 ]
