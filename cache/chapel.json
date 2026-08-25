@@ -58,17 +58,6 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "Built to Spill",
-    "start": "2026-08-24T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/built-to-spill/683043?afflky=TheChapel",
-    "description": "with Supporting Talent: PLAYDEAD\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "683043"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Built to Spill",
     "start": "2026-08-25T20:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/built-to-spill/683046?afflky=TheChapel",
@@ -83,7 +72,7 @@
     "start": "2026-08-26T20:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672239?afflky=TheChapel",
-    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS\nat The Chapel\nGenre: Psych Rock",
+    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS, DJ David Katznelson\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "672239"
   },
@@ -94,7 +83,7 @@
     "start": "2026-08-27T20:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672246?afflky=TheChapel",
-    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS\nat The Chapel\nGenre: Psych Rock",
+    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS, DJ FOODCOURT\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "672246"
   },
@@ -105,7 +94,7 @@
     "start": "2026-08-28T20:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672247?afflky=TheChapel",
-    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS, Gumby’s Junk\nat The Chapel\nGenre: Psych Rock",
+    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS, Gumby’s Junk, DJ Paul Costuros\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "672247"
   },
@@ -116,7 +105,7 @@
     "start": "2026-08-29T20:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672248?afflky=TheChapel",
-    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS\nat The Chapel\nGenre: Psych Rock",
+    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS, DJ Paul Costuros\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "672248"
   },
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Topographies, Christina's Trip\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "699436"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Acid Tongue: The Farewell Show",
+    "start": "2026-09-11T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/acid-tongue-the-farewell-show/698511?afflky=TheChapel",
+    "description": "Acid Tongue\nwith Supporting Talent: Los Dug Dug's\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "698511"
   }
 ]
