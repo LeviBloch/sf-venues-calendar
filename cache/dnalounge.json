@@ -464,6 +464,17 @@
   {
     "venue_key": "dnalounge",
     "venue_name": "DNA Lounge",
+    "title": "Banda Rave",
+    "start": "2026-10-02T21:30:00-07:00",
+    "end": null,
+    "url": "https://www.dnalounge.com/calendar/2026/10-02.html",
+    "description": "Main Room:\n\n  OtebNSolrac\n\nPerforming Live:\n\n  ROYALES\n\nPerreo Eléctrico: The Banda Rave Experience pushing perreo and underground Latin electronic music with live band, Royales. Para la cultura 🐕\n\ntechno. banda. house. corrido. reggaeton.\n9:30pm - 2:30am.\n18+ with ID.\n\n$12 limited advance;\n$15 after;\n$22 door.\n\nBuy tickets: https://www.dnalounge.com/calendar/2026/10-02.html",
+    "location": "DNA Lounge, 375 11th St, San Francisco, CA 94103",
+    "source_uid": "https://www.dnalounge.com/calendar/2026/10-02.html"
+  },
+  {
+    "venue_key": "dnalounge",
+    "venue_name": "DNA Lounge",
     "title": "Dark Sparkle",
     "start": "2026-10-02T21:30:00-07:00",
     "end": null,
