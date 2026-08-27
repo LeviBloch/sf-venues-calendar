@@ -58,17 +58,6 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "OSEES ft. Brigid Dawson",
-    "start": "2026-08-26T20:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672239?afflky=TheChapel",
-    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS, DJ David Katznelson\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "672239"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "OSEES ft. Brigid Dawson",
     "start": "2026-08-27T20:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672246?afflky=TheChapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Cindy\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "689760"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Bobby Bare Jr. (of Guided By Voices)",
+    "start": "2026-09-14T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
+    "description": "Bobby Bare,  Jr.\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "699388"
   }
 ]
