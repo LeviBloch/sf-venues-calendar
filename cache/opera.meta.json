@@ -1,5 +1,5 @@
 {
-  "last_error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.sfopera.com/calendar/\", waiting until \"domcontentloaded\"\n",
-  "error_count": 164,
-  "last_attempt": "2026-08-27T11:17:17.808507-07:00"
+  "last_error": "All extraction strategies failed for SF Opera at https://www.sfopera.com/calendar/. HTML=359304 bytes, JSON XHRs=7, all XHRs=84. Debug artifact: debug/opera.html",
+  "error_count": 165,
+  "last_attempt": "2026-08-27T20:34:26.092218-07:00"
 }
