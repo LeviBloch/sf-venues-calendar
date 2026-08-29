@@ -58,17 +58,6 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "OSEES ft. Brigid Dawson",
-    "start": "2026-08-28T20:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672247?afflky=TheChapel",
-    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS, Gumby’s Junk, DJ Paul Costuros\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "672247"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "OSEES ft. Brigid Dawson",
     "start": "2026-08-29T20:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672248?afflky=TheChapel",
@@ -156,12 +145,23 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Magic Sword",
-    "start": "2026-09-16T20:00:00-07:00",
+    "title": "Shawn James",
+    "start": "2026-09-18T21:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/magic-sword/698674?afflky=TheChapel",
-    "description": "with Supporting Talent: Skylimit\nat The Chapel\nGenre: Electronic",
+    "url": "https://wl.seetickets.us/event/shawn-james/696157?afflky=TheChapel",
+    "description": "with Supporting Talent: Gravedancer\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698674"
+    "source_uid": "696157"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Geneva Jacuzzi",
+    "start": "2026-09-19T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/geneva-jacuzzi/701181?afflky=TheChapel",
+    "description": "with Supporting Talent: Ex-Heir, Diesel Dudes, Nick Moss (DJ Set)\nat The Chapel\nGenre: Pop",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "701181"
   }
 ]
