@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "OSEES ft. Brigid Dawson",
-    "start": "2026-08-29T20:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672248?afflky=TheChapel",
-    "description": "Osees, Brigid Dawson\nwith Supporting Talent: Traps PS, DJ Paul Costuros\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "672248"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Pink Breath of Heaven",
     "start": "2026-09-03T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Ex-Heir, Diesel Dudes, Nick Moss (DJ Set)\nat The Chapel\nGenre: Pop",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "701181"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "LOVE SUPREME Summer Day Party Series",
+    "start": "2026-09-20T14:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697838?afflky=TheChapel",
+    "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "697838"
   }
 ]
