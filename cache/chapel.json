@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "The Best Little Whorehouse in San Francisco: A Dolly Tribute",
+    "start": "2026-09-12T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-best-little-whorehouse-in-san-francisco-a-dolly-tribute/704549?afflky=TheChapel",
+    "description": "with Supporting Talent: Laundra Tyme, Amoura Teese, Helena Levin, Cheetah Biscotti\nat The Chapel\nGenre: LGBTQ Event",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "704549"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Fruition",
     "start": "2027-01-22T21:00:00-08:00",
     "end": null,
@@ -46,28 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Y La Bamba - 10 Years of Ojos Del Sol",
-    "start": "2026-10-08T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/y-la-bamba-10-years-of-ojos-del-sol/703013?afflky=TheChapel",
-    "description": "Y La Bamba\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "703013"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Pink Breath of Heaven",
-    "start": "2026-09-03T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/pink-breath-of-heaven/699433?afflky=TheChapel",
-    "description": "with Supporting Talent: Chime School, DJ Midnight Artist\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699433"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Sister Nancy & The Steady Rock Band",
     "start": "2026-09-04T21:00:00-07:00",
     "end": null,
@@ -108,6 +97,17 @@
     "description": "Acid Tongue\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "698511"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "The Best Little Whorehouse in San Francisco: A Dolly Tribute",
+    "start": "2026-09-12T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-best-little-whorehouse-in-san-francisco-a-dolly-tribute/704549?afflky=TheChapel",
+    "description": "with Supporting Talent: Laundra Tyme, Amoura Teese, Helena Levin, Cheetah Biscotti\nat The Chapel\nGenre: LGBTQ Event",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "704549"
   },
   {
     "venue_key": "chapel",
