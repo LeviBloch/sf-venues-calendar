@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Sister Nancy & The Steady Rock Band",
-    "start": "2026-09-04T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/sister-nancy-and-the-steady-rock-band/701232?afflky=TheChapel",
-    "description": "Sister Nancy\nwith Supporting Talent: DJ Sep (Dub Mission)\nat The Chapel\nGenre: Reggae",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "701232"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "An Evening With Drink The Sea",
     "start": "2026-09-05T21:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "697838"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "MOVED TO THE 4 STAR THEATER: Marlon Magnée (of La Femme)",
+    "start": "2026-09-21T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/moved-to-the-4-star-theater-marlon-magnee-of-la-femme/670503?afflky=TheChapel",
+    "description": "Marlon Magnée\nwith Supporting Talent: Future Twin\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "670503"
   }
 ]
