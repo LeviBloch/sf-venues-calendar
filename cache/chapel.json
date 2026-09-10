@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Western Standard Time Ska Orchestra ft. Karina Deniké (NOFX)",
+    "start": "2027-01-08T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/western-standard-time-ska-orchestra-ft-karina-denike-nofx/705024?afflky=TheChapel",
+    "description": "Western Standard Time Ska Orchestra, Karina Deniké\nwith Supporting Talent: The Tectonics, The Singapore Selector, Sir Rudy Blackout\nat The Chapel\nGenre: Ska",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705024"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "The Best Little Whorehouse in San Francisco: A Dolly Tribute",
     "start": "2026-09-12T21:00:00-07:00",
     "end": null,
@@ -42,17 +53,6 @@
     "description": "with Supporting Talent: Native Sun\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "686832"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Derya Yildirim & Grup Şimşek, Thee Marloes",
-    "start": "2026-10-11T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/derya-yildirim-and-grup-simsek-thee-marloes/702768?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "702768"
   },
   {
     "venue_key": "chapel",
@@ -101,10 +101,10 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Bobby Bare Jr. (of Guided By Voices)",
+    "title": "CANCELED: Bobby Bare Jr. (of Guided By Voices)",
     "start": "2026-09-14T20:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
+    "url": "https://wl.seetickets.us/event/canceled-bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
     "description": "Bobby Bare,  Jr.\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "699388"

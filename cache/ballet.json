@@ -90,6 +90,17 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
+    "title": "Workshop",
+    "start": "2026-10-04T19:30:00-07:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/workshop/5988/",
+    "description": "9:30 AM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "Workshop|2026-10-04"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
     "title": "Tiny Dances",
     "start": "2026-11-07T19:30:00-08:00",
     "end": null,
@@ -262,6 +273,17 @@
     "description": "2:00 PM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
     "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
     "source_uid": "Nutcracker|2026-12-19"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
+    "title": "Workshop",
+    "start": "2026-12-20T19:30:00-08:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/workshop/5993/",
+    "description": "9:30 AM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "Workshop|2026-12-20"
   },
   {
     "venue_key": "ballet",
@@ -812,5 +834,16 @@
     "description": "2:00 PM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
     "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
     "source_uid": "Manon|2027-05-02"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
+    "title": "Workshop",
+    "start": "2027-05-16T19:30:00-07:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/workshop/5998/",
+    "description": "9:30 AM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "Workshop|2027-05-16"
   }
 ]
