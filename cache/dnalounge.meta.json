@@ -1,6 +1,6 @@
 {
   "last_success": "2026-08-29T14:42:42.328513-07:00",
-  "last_error": "HTTPSConnectionPool(host='www.dnalounge.com', port=443): Max retries exceeded with url: /calendar/dnalounge.ics (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dnalounge.com', port=443) at 0x7f83ed0e86b0>, 'Connection to www.dnalounge.com timed out. (connect timeout=20)'))",
-  "error_count": 24,
-  "last_attempt": "2026-09-10T14:36:46.564824-07:00"
+  "last_error": "HTTPSConnectionPool(host='www.dnalounge.com', port=443): Max retries exceeded with url: /calendar/dnalounge.ics (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.dnalounge.com', port=443) at 0x7f9212830f50>, 'Connection to www.dnalounge.com timed out. (connect timeout=20)'))",
+  "error_count": 25,
+  "last_attempt": "2026-09-11T05:11:46.390535-07:00"
 }
