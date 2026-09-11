@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Pink Breath of Heaven",
-    "start": "2026-09-10T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/pink-breath-of-heaven/699436?afflky=TheChapel",
-    "description": "with Supporting Talent: Topographies, Christina's Trip\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699436"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Acid Tongue: The Farewell Show",
     "start": "2026-09-11T21:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "697838"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "MOVED TO THE 4 STAR THEATER: Marlon Magnée (of La Femme)",
+    "start": "2026-09-21T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/moved-to-the-4-star-theater-marlon-magnee-of-la-femme/670503?afflky=TheChapel",
+    "description": "Marlon Magnée\nwith Supporting Talent: Future Twin\nat The 4 Star Theater\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "670503"
   }
 ]
