@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Haunted Riot with Frightwig",
+    "start": "2026-10-23T20:00:00-07:00",
+    "end": null,
+    "url": "https://www.tixr.com/groups/kqed/events/haunted-riot-with-frightwig-an-alt-punk-show-204363",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Western Standard Time Ska Orchestra ft. Karina Deniké (NOFX)",
     "start": "2027-01-08T21:00:00-08:00",
     "end": null,
@@ -42,17 +53,6 @@
     "description": "at The Chapel\nGenre: Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "703371"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "The Limiñanas",
-    "start": "2026-05-15T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-liminanas/686832?afflky=TheChapel",
-    "description": "with Supporting Talent: Native Sun\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "686832"
   },
   {
     "venue_key": "chapel",
