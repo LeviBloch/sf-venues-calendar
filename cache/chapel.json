@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Acid Tongue: The Farewell Show",
-    "start": "2026-09-11T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/acid-tongue-the-farewell-show/698511?afflky=TheChapel",
-    "description": "Acid Tongue\nwith Supporting Talent: Damma Damma\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698511"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "The Best Little Whorehouse in San Francisco: A Dolly Tribute",
     "start": "2026-09-12T21:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Marlon Magnée\nwith Supporting Talent: Future Twin\nat The 4 Star Theater\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "670503"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Temples: The BLISS Tour",
+    "start": "2026-09-22T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/temples-the-bliss-tour/687358?afflky=TheChapel",
+    "description": "Temples\nwith Supporting Talent: Poppy Jean Crawford, Visuals by Zach Rodell\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "687358"
   }
 ]
