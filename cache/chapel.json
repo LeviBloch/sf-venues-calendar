@@ -24,17 +24,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "The Best Little Whorehouse in San Francisco: A Dolly Tribute",
-    "start": "2026-09-12T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-best-little-whorehouse-in-san-francisco-a-dolly-tribute/704549?afflky=TheChapel",
-    "description": "with Supporting Talent: Laundra Tyme, Amoura Teese, Helena Levin, Cheetah Biscotti, Sally Limón, DJ Mama Celeste, D. Williams, Franzia Rosé\nat The Chapel\nGenre: LGBTQ Event",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "704549"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Fruition",
     "start": "2027-01-22T21:00:00-08:00",
     "end": null,
@@ -57,13 +46,13 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "The Best Little Whorehouse in San Francisco: A Dolly Tribute",
-    "start": "2026-09-12T21:00:00-07:00",
+    "title": "The Limiñanas",
+    "start": "2026-05-15T21:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/the-best-little-whorehouse-in-san-francisco-a-dolly-tribute/704549?afflky=TheChapel",
-    "description": "with Supporting Talent: Laundra Tyme, Amoura Teese, Helena Levin, Cheetah Biscotti, Sally Limón, DJ Mama Celeste, D. Williams, Franzia Rosé\nat The Chapel\nGenre: LGBTQ Event",
+    "url": "https://wl.seetickets.us/event/the-liminanas/686832?afflky=TheChapel",
+    "description": "with Supporting Talent: Native Sun\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "704549"
+    "source_uid": "686832"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "Temples\nwith Supporting Talent: Poppy Jean Crawford, Visuals by Zach Rodell\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "687358"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Temples: The BLISS Tour",
+    "start": "2026-09-23T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/temples-the-bliss-tour/687377?afflky=TheChapel",
+    "description": "Temples\nwith Supporting Talent: Poppy Jean Crawford, Visuals by Zach Rodell\nat The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "687377"
   }
 ]
