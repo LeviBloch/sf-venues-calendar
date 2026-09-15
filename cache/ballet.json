@@ -90,13 +90,13 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
-    "title": "Dance Alongs",
+    "title": "Dance Along Workshops",
     "start": "2026-10-04T19:30:00-07:00",
     "end": null,
     "url": "https://www.sfballet.org/productions/dance-alongs/5988/",
     "description": "9:30 AM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
     "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
-    "source_uid": "Dance Alongs|2026-10-04"
+    "source_uid": "Dance Along Workshops|2026-10-04"
   },
   {
     "venue_key": "ballet",
@@ -277,13 +277,13 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
-    "title": "Dance Alongs",
+    "title": "Dance Along Workshops",
     "start": "2026-12-20T19:30:00-08:00",
     "end": null,
     "url": "https://www.sfballet.org/productions/dance-alongs/5993/",
     "description": "9:30 AM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
     "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
-    "source_uid": "Dance Alongs|2026-12-20"
+    "source_uid": "Dance Along Workshops|2026-12-20"
   },
   {
     "venue_key": "ballet",

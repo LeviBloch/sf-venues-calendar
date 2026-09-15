@@ -2,6 +2,50 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "The Paul Simon Halloween Ball Performed by Bone Diggers",
+    "start": "2026-10-31T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-paul-simon-halloween-ball-performed-by-bone-diggers/705531?afflky=TheChapel",
+    "description": "Bone Diggers\nwith Supporting Talent: Reed Mathis, Lebo, Holly Bowling, Scott Rager\nat The Chapel\nGenre: Jam Band",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705531"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "A Night of the Living Dead",
+    "start": "2026-10-30T20:30:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/a-night-of-the-living-dead/705528?afflky=TheChapel",
+    "description": "A Night of the Living Dead featuring\nwith Supporting Talent: Lebo, Holly Bowling, Wally Ingram, Elliott Peck, Danny Leuhring, Steve Adams\nat The Chapel\nGenre: Jam Band",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705528"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Dollygrass, A Tribute ft. Godman, Tucker, Lewis & Gates",
+    "start": "2026-09-27T19:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/dollygrass-a-tribute-ft-godman-tucker-lewis-and-gates/705521?afflky=TheChapel",
+    "description": "Godman,  Tucker,  Lewis & Gates\nwith Supporting Talent: Liz Lewis & Friends, The Jimmy Touzel Bluegrass Explosion\nat The Chapel\nGenre: Bluegrass",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705521"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Jean-Michel Blais",
+    "start": "2026-05-04T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/jean-michel-blais/705097?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705097"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "RAMONES X",
     "start": "2026-12-19T20:30:00-08:00",
     "end": null,
@@ -9,61 +53,6 @@
     "description": "Ramones X\nwith Supporting Talent: Living Eyes\nat The Chapel\nGenre: Punk",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705091"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Haunted Riot with Frightwig",
-    "start": "2026-10-23T20:00:00-07:00",
-    "end": null,
-    "url": "https://www.tixr.com/groups/kqed/events/haunted-riot-with-frightwig-an-alt-punk-show-204363",
-    "description": "at The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Western Standard Time Ska Orchestra ft. Karina Deniké (NOFX)",
-    "start": "2027-01-08T21:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/western-standard-time-ska-orchestra-ft-karina-denike-nofx/705024?afflky=TheChapel",
-    "description": "Western Standard Time Ska Orchestra, Karina Deniké\nwith Supporting Talent: The Tectonics, The Singapore Selector, Sir Rudy Blackout\nat The Chapel\nGenre: Ska",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705024"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Fruition",
-    "start": "2027-01-22T21:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/fruition/703540?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Americana",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "703540"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Cobweb Cabaret",
-    "start": "2026-10-09T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Cobweb-Cabaret/703371?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "703371"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "CANCELED: Bobby Bare Jr. (of Guided By Voices)",
-    "start": "2026-09-14T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/canceled-bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
-    "description": "Bobby Bare,  Jr.\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699388"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: The Furious Tits, 37 Houses, Black Gold Sun\nat The Chapel\nGenre: Benefit",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "702095"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Rose City Band",
+    "start": "2026-09-25T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/rose-city-band/699837?afflky=TheChapel",
+    "description": "with Supporting Talent: Rain Parade, Light Fantastic, Visuals by Zachary Rodell\nat The Chapel\nGenre: Country",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "699837"
   }
 ]
