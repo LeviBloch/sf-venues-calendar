@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "ChapelMania",
+    "start": "2026-11-01T15:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/chapelmania/705677?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705677"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "The Paul Simon Halloween Ball Performed by Bone Diggers",
     "start": "2026-10-31T21:00:00-07:00",
     "end": null,
@@ -42,17 +53,6 @@
     "description": "at The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705097"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "RAMONES X",
-    "start": "2026-12-19T20:30:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/ramones-x/705091?afflky=TheChapel",
-    "description": "Ramones X\nwith Supporting Talent: Living Eyes\nat The Chapel\nGenre: Punk",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705091"
   },
   {
     "venue_key": "chapel",
