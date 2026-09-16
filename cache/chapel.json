@@ -28,7 +28,7 @@
     "start": "2026-10-30T20:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/a-night-of-the-living-dead/705528?afflky=TheChapel",
-    "description": "A Night of the Living Dead featuring\nwith Supporting Talent: Lebo, Holly Bowling, Wally Ingram, Elliott Peck, Danny Leuhring, Steve Adams\nat The Chapel\nGenre: Jam Band",
+    "description": "A Night of the Living Dead featuring\nwith Supporting Talent: Lebo, Holly Bowling, Wally Ingram, Elliott Peck, Danny Luehring, Steve Adams\nat The Chapel\nGenre: Jam Band",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705528"
   },
@@ -53,17 +53,6 @@
     "description": "at The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705097"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "MOVED TO KILOWATT ON TUESDAY 9/15: Magic Sword",
-    "start": "2026-09-15T19:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/moved-to-kilowatt-on-tuesday-915-magic-sword/698674?afflky=TheChapel",
-    "description": "Magic Sword\nwith Supporting Talent: Skylimit\nat Kilowatt\nGenre: Electronic",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "698674"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Rain Parade, Light Fantastic, Visuals by Zachary Rodell\nat The Chapel\nGenre: Country",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "699837"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Rose City Band",
+    "start": "2026-09-26T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/rose-city-band/699842?afflky=TheChapel",
+    "description": "with Supporting Talent: Møtrik, Jas Stade, Visuals by Zachary Rodell\nat The Chapel\nGenre: Country",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "699842"
   }
 ]

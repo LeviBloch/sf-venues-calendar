@@ -101,6 +101,28 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
+    "title": "Ballet Sun Valley",
+    "start": "2026-10-22T19:30:00-07:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/sun-valley/",
+    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "sun-valley|2026-10-22"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
+    "title": "Ballet Sun Valley",
+    "start": "2026-10-23T19:30:00-07:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/sun-valley/",
+    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "sun-valley|2026-10-23"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
     "title": "Tiny Dances",
     "start": "2026-11-07T19:30:00-08:00",
     "end": null,
