@@ -2,6 +2,28 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Petty Theft",
+    "start": "2026-11-28T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Petty-Theft/705785?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705785"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Poi Dog Pondering",
+    "start": "2026-11-21T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/poi-dog-pondering/705787?afflky=TheChapel",
+    "description": "with Supporting Talent: Archer Monk\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705787"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "ChapelMania",
     "start": "2026-11-01T15:00:00-08:00",
     "end": null,
@@ -31,28 +53,6 @@
     "description": "A Night of the Living Dead featuring\nwith Supporting Talent: Lebo, Holly Bowling, Wally Ingram, Elliott Peck, Danny Luehring, Steve Adams\nat The Chapel\nGenre: Jam Band",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705528"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Dollygrass, A Tribute ft. Godman, Tucker, Lewis & Gates",
-    "start": "2026-09-27T19:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/dollygrass-a-tribute-ft-godman-tucker-lewis-and-gates/705521?afflky=TheChapel",
-    "description": "Godman,  Tucker,  Lewis & Gates\nwith Supporting Talent: Liz Lewis & Friends, The Jimmy Touzel Bluegrass Explosion\nat The Chapel\nGenre: Bluegrass",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705521"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Jean-Michel Blais",
-    "start": "2026-05-04T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/jean-michel-blais/705097?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705097"
   },
   {
     "venue_key": "chapel",

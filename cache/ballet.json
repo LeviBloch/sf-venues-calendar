@@ -68,6 +68,17 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
+    "title": "Ballet Bend",
+    "start": "2026-09-26T19:30:00-07:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/ballet-bend/",
+    "description": "Default curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "ballet-bend|2026-09-26"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
     "title": "NEW YORK CITY CENTER",
     "start": "2026-09-30T19:30:00-07:00",
     "end": null,
