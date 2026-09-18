@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Private Event",
-    "start": "2026-09-17T20:00:00-07:00",
-    "end": null,
-    "url": "https://thechapelsf.com/private-events/",
-    "description": "at The Chapel\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Shawn James",
     "start": "2026-09-18T21:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Møtrik, Jas Stade, Visuals by Zachary Rodell\nat The Chapel\nGenre: Country",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "699842"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Dollygrass, A Tribute ft. Godman, Tucker, Lewis & Gates",
+    "start": "2026-09-27T19:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/dollygrass-a-tribute-ft-godman-tucker-lewis-and-gates/705521?afflky=TheChapel",
+    "description": "Godman,  Tucker,  Lewis & Gates\nwith Supporting Talent: Liz Lewis & Friends, The Jimmy Touzel Bluegrass Explosion\nat The Chapel\nGenre: Bluegrass",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705521"
   }
 ]
