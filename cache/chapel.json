@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Shawn James",
-    "start": "2026-09-18T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/shawn-james/696157?afflky=TheChapel",
-    "description": "with Supporting Talent: Gravedancer\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "696157"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Geneva Jacuzzi",
     "start": "2026-09-19T21:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Godman,  Tucker,  Lewis & Gates\nwith Supporting Talent: Liz Lewis & Crying Uncle, The Jimmy Touzel Bluegrass Explosion\nat The Chapel\nGenre: Bluegrass",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705521"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "CANCELED: Sophie Truax",
+    "start": "2026-09-29T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/canceled-sophie-truax/697003?afflky=TheChapel",
+    "description": "Sophie Truax\nwith Supporting Talent: Sasha Cee\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "697003"
   }
 ]
