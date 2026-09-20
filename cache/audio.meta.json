@@ -1,5 +1,5 @@
 {
   "last_error": "All extraction strategies failed for Audio at https://audiosf.com/. HTML=12096 bytes, JSON XHRs=0, all XHRs=25. Debug artifact: debug/audio.html",
-  "error_count": 211,
-  "last_attempt": "2026-09-20T05:20:20.480558-07:00"
+  "error_count": 212,
+  "last_attempt": "2026-09-20T14:32:12.708798-07:00"
 }

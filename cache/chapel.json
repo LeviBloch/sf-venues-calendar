@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Geneva Jacuzzi",
-    "start": "2026-09-19T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/geneva-jacuzzi/701181?afflky=TheChapel",
-    "description": "with Supporting Talent: Ex-Heir, Diesel Dudes, Nick Moss (DJ Set)\nat The Chapel\nGenre: Pop",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "701181"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "LOVE SUPREME Summer Day Party Series",
     "start": "2026-09-20T14:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Sophie Truax\nwith Supporting Talent: Sasha Cee\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "697003"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "FAILURE: Rising Skyline 2026",
+    "start": "2026-09-30T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/failure-rising-skyline-2026/688890?afflky=TheChapel",
+    "description": "Failure\nwith Supporting Talent: quannnic\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "688890"
   }
 ]
