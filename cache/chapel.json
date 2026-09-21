@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "LOVE SUPREME Summer Day Party Series",
-    "start": "2026-09-20T14:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697838?afflky=TheChapel",
-    "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "697838"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "MOVED TO THE 4 STAR THEATER: Marlon Magnée (of La Femme)",
     "start": "2026-09-21T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Failure\nwith Supporting Talent: quannnic\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "688890"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Soda Blonde",
+    "start": "2026-10-01T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/soda-blonde/681807?afflky=TheChapel",
+    "description": "with Supporting Talent: Marika Christine\nat The Chapel\nGenre: Pop",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "681807"
   }
 ]
