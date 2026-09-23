@@ -58,17 +58,6 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "Temples: The BLISS Tour",
-    "start": "2026-09-22T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/temples-the-bliss-tour/687358?afflky=TheChapel",
-    "description": "Temples\nwith Supporting Talent: Poppy Jean Crawford, Visuals by Zach Rodell\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "687358"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Temples: The BLISS Tour",
     "start": "2026-09-23T20:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/temples-the-bliss-tour/687377?afflky=TheChapel",
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Hip Hop/Rap",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "698388"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-10-03T20:00:00-07:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
   }
 ]
