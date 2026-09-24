@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "RAMONES X",
+    "start": "2026-12-20T20:30:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/RAMONES-X/705863?afflky=TheChapel",
+    "description": "Ramones X\nwith Supporting Talent: Living Eyes\nat The Chapel\nGenre: Punk",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705863"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "WOMEN’S REBEL VOICES FILM + MUSIC TOUR feat. MIKO MARKS",
     "start": "2026-10-18T18:00:00-07:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "at The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705677"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "The Paul Simon Halloween Ball Performed by Bone Diggers",
-    "start": "2026-10-31T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-paul-simon-halloween-ball-performed-by-bone-diggers/705531?afflky=TheChapel",
-    "description": "Bone Diggers\nwith Supporting Talent: Reed Mathis, Lebo, Holly Bowling, Scott Rager\nat The Chapel\nGenre: Jam Band",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705531"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Temples: The BLISS Tour",
-    "start": "2026-09-23T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/temples-the-bliss-tour/687377?afflky=TheChapel",
-    "description": "Temples\nwith Supporting Talent: Poppy Jean Crawford, Visuals by Zach Rodell\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "687377"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Other Content",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Rum Jungle",
+    "start": "2026-10-04T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/rum-jungle/689221?afflky=TheChapel",
+    "description": "with Supporting Talent: Trestles\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "689221"
   }
 ]
