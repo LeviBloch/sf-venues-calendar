@@ -167,6 +167,17 @@
   {
     "venue_key": "ballet",
     "venue_name": "SF Ballet",
+    "title": "Nutcracker Nightcap",
+    "start": "2026-12-04T19:30:00-08:00",
+    "end": null,
+    "url": "https://www.sfballet.org/productions/nutcracker-nightcap/5966/",
+    "description": "9:00 PM\nDefault curtain: 7:30 PM — click through for exact showtimes.",
+    "location": "War Memorial Opera House, 301 Van Ness Ave, San Francisco, CA 94102",
+    "source_uid": "Nutcracker Nightcap|2026-12-04"
+  },
+  {
+    "venue_key": "ballet",
+    "venue_name": "SF Ballet",
     "title": "Nutcracker",
     "start": "2026-12-05T19:30:00-08:00",
     "end": null,
