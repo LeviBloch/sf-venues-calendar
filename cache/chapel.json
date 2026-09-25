@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Femmes, Thems, And Friends: A Folsom Kickoff Party",
-    "start": "2026-09-24T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/femmes-thems-and-friends-a-folsom-kickoff-party/702095?afflky=TheChapel",
-    "description": "with Supporting Talent: The Furious Tits, 37 Houses, Black Gold Sun\nat The Chapel\nGenre: Benefit",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "702095"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Rose City Band",
     "start": "2026-09-25T21:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Trestles\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "689221"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Lilyisthatyou",
+    "start": "2026-10-06T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/lilyisthatyou/689080?afflky=TheChapel",
+    "description": "with Supporting Talent: James the Seventh\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "689080"
   }
 ]
