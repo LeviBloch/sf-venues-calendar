@@ -58,17 +58,6 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "Rose City Band",
-    "start": "2026-09-25T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/rose-city-band/699837?afflky=TheChapel",
-    "description": "with Supporting Talent: Rain Parade, Light Fantastic, Visuals by Zachary Rodell\nat The Chapel\nGenre: Country",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699837"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Rose City Band",
     "start": "2026-09-26T21:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/rose-city-band/699842?afflky=TheChapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: James the Seventh\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "689080"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "An Evening With Lloyd Cole (Solo Electric)",
+    "start": "2026-10-07T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole-solo-electric/687528?afflky=TheChapel",
+    "description": "Lloyd Cole\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "687528"
   }
 ]
