@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "DollyGrass A Tribute w Godman, Tucker, Sharpe, Lewis & Gates",
-    "start": "2026-09-27T19:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/dollygrass-a-tribute-w-godman-tucker-sharpe-lewis-and-gates/705521?afflky=TheChapel",
-    "description": "Godman,  Tucker,  Sharpe,  Lewis & Gates\nwith Supporting Talent: Liz Lewis & Crying Uncle, The Jimmy Touzel Bluegrass Explosion, MC Danny \"Hootenanny\" Clark\nat The Chapel\nGenre: Bluegrass",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705521"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "CANCELED: Sophie Truax",
     "start": "2026-09-29T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Y La Bamba\nwith Supporting Talent: Vanessa Zamora\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "703013"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Cobweb Cabaret",
+    "start": "2026-10-09T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Cobweb-Cabaret/703371?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "703371"
   }
 ]
