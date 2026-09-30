@@ -2,6 +2,28 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Swirlies",
+    "start": "2027-01-09T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/swirlies/706410?afflky=TheChapel",
+    "description": "with Supporting Talent: Seko\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "706410"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Nora Brown with Stephanie Coleman",
+    "start": "2027-01-10T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/nora-brown-with-stephanie-coleman/706553?afflky=TheChapel",
+    "description": "Nora Brown, Stephanie Coleman\nat The Chapel\nGenre: Bluegrass",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "706553"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "RAMONES X",
     "start": "2026-12-20T20:30:00-08:00",
     "end": null,
@@ -31,28 +53,6 @@
     "description": "at The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705785"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Poi Dog Pondering",
-    "start": "2026-11-21T21:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/poi-dog-pondering/705787?afflky=TheChapel",
-    "description": "with Supporting Talent: Archer Monk\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705787"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "ChapelMania",
-    "start": "2026-11-01T15:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/chapelmania/705677?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705677"
   },
   {
     "venue_key": "chapel",
