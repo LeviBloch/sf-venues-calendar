@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "CANCELED: Sophie Truax",
-    "start": "2026-09-29T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/canceled-sophie-truax/697003?afflky=TheChapel",
-    "description": "Sophie Truax\nwith Supporting Talent: Sasha Cee\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "697003"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "FAILURE: Rising Skyline 2026",
     "start": "2026-09-30T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Dance",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "703371"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-10-10T20:00:00-07:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
   }
 ]
