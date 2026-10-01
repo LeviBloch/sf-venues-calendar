@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Chuck Prophet",
+    "start": "2026-12-26T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/chuck-prophet/706760?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "706760"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Swirlies",
     "start": "2027-01-09T20:00:00-08:00",
     "end": null,
@@ -39,20 +50,9 @@
     "start": "2026-10-18T18:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-feat-miko-marks/706154?afflky=TheChapel",
-    "description": "Miko Marks\nwith Supporting Talent: Maureen Gosling, Jed Riffe\nat The Chapel\nGenre: Americana",
+    "description": "Miko Marks\nwith Supporting Talent: Maureen Gosling, Jed Riffe\nat 3:15pm Film @ Roxie, 6pm Q&A + Performance @ the Chapel\nGenre: Americana",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "706154"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Petty Theft",
-    "start": "2026-11-28T21:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/Petty-Theft/705785?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Tribute Act",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705785"
   },
   {
     "venue_key": "chapel",
