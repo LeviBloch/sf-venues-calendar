@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Soda Blonde",
-    "start": "2026-10-01T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/soda-blonde/681807?afflky=TheChapel",
-    "description": "with Supporting Talent: Marika Christine\nat The Chapel\nGenre: Pop",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "681807"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Lyrics Born",
     "start": "2026-10-02T21:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "702768"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Militarie Gun",
+    "start": "2026-10-13T19:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
+    "description": "with Supporting Talent: Softcult, Shady Nasty, Dazy\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "693468"
   }
 ]
