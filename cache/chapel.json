@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Private Event",
-    "start": "2026-10-03T20:00:00-07:00",
-    "end": null,
-    "url": "https://thechapelsf.com/private-events/",
-    "description": "at The Chapel\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Rum Jungle",
     "start": "2026-10-04T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Golomb, figure eight, sachi's mirror\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "700215"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Hot Flash Heat Wave",
+    "start": "2026-10-15T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/hot-flash-heat-wave/693459?afflky=TheChapel",
+    "description": "with Supporting Talent: Carpool Tunnel, Starzdust\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "693459"
   }
 ]
