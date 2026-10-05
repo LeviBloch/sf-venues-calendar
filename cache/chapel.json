@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Rum Jungle",
-    "start": "2026-10-04T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/rum-jungle/689221?afflky=TheChapel",
-    "description": "with Supporting Talent: Trestles\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "689221"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Lilyisthatyou",
     "start": "2026-10-06T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Carpool Tunnel, Starzdust\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "693459"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Amélie Farren, Lilith Max, Rabbitology",
+    "start": "2026-10-16T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/amelie-farren-lilith-max-rabbitology/695956?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695956"
   }
 ]
