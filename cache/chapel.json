@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Lilyisthatyou",
-    "start": "2026-10-06T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/lilyisthatyou/689080?afflky=TheChapel",
-    "description": "with Supporting Talent: James the Seventh\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "689080"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "An Evening With Lloyd Cole (Solo Electric)",
     "start": "2026-10-07T20:00:00-07:00",
     "end": null,
@@ -83,7 +72,7 @@
     "start": "2026-10-08T20:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/y-la-bamba-10-years-of-ojos-del-sol/703013?afflky=TheChapel",
-    "description": "Y La Bamba\nwith Supporting Talent: Vanessa Zamora\nat The Chapel\nGenre: Indie",
+    "description": "Y La Bamba\nwith Supporting Talent: Vanessa Zamora, Vinyl Sessions with DJ High Me\"\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "703013"
   },
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "695956"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-10-17T20:00:00-07:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
   }
 ]
