@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Sleepless Nights XX: A Tribute to Gram Parsons",
+    "start": "2026-11-27T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons/707714?afflky=TheChapel",
+    "description": "with Supporting Talent: Bar Fight, Aaron Burnham & the Brushfires, East Bay Breeze, Paula Frazer & Tarnation, Sweet Chariot, Brian Mello & the Afterglow, Country Risqué, Nashville Honeymoon, Penelope Houston & the Jailbirds\nat The Chapel\nGenre: Americana",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "707714"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "The Loved Ones - Latest Hits Record Release!",
     "start": "2027-01-07T20:00:00-08:00",
     "end": null,
@@ -46,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "RAMONES X",
-    "start": "2026-12-20T20:30:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/RAMONES-X/705863?afflky=TheChapel",
-    "description": "Ramones X\nwith Supporting Talent: Living Eyes\nat The Chapel\nGenre: Punk",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705863"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "An Evening With Lloyd Cole (Solo Electric)",
     "start": "2026-10-07T20:00:00-07:00",
     "end": null,
@@ -72,7 +72,7 @@
     "start": "2026-10-08T20:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/y-la-bamba-10-years-of-ojos-del-sol/703013?afflky=TheChapel",
-    "description": "Y La Bamba\nwith Supporting Talent: Vanessa Zamora, Vinyl Sessions with DJ High Me\"\nat The Chapel\nGenre: Indie",
+    "description": "Y La Bamba\nwith Supporting Talent: Vanessa Zamora, Vinyl Sessions with DJ High Me\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "703013"
   },
