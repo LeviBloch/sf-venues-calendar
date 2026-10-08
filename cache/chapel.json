@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "An Evening With Lloyd Cole (Solo Electric)",
-    "start": "2026-10-07T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole-solo-electric/687528?afflky=TheChapel",
-    "description": "Lloyd Cole\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "687528"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Y La Bamba - 10 Years of Ojos Del Sol",
     "start": "2026-10-08T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Other Content",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "LOVE SUPREME Summer Day Party Series",
+    "start": "2026-10-18T14:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697839?afflky=TheChapel",
+    "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "697839"
   }
 ]
