@@ -1,5 +1,5 @@
 {
-  "last_error": "All extraction strategies failed for SFJAZZ at https://www.sfjazz.org/tickets/calendar/. HTML=29525 bytes, JSON XHRs=0, all XHRs=4. Debug artifact: debug/sfjazz.html",
-  "error_count": 248,
-  "last_attempt": "2026-10-08T16:45:22.499487-07:00"
+  "last_error": "All extraction strategies failed for SFJAZZ at https://www.sfjazz.org/tickets/calendar/. HTML=28902 bytes, JSON XHRs=0, all XHRs=15. Debug artifact: debug/sfjazz.html",
+  "error_count": 249,
+  "last_attempt": "2026-10-09T07:21:58.983014-07:00"
 }
