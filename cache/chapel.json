@@ -2,17 +2,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "****THE LOVEBIRDS***",
-    "start": "2026-10-10T17:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-lovebirds/707145?afflky=TheChapel",
-    "description": "THE LOVEBIRDS\nwith Supporting Talent: ANA & DUNCAN\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "707145"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Sleepless Nights XX: A Tribute to Gram Parsons",
     "start": "2026-11-27T20:00:00-08:00",
     "end": null,
@@ -53,6 +42,17 @@
     "description": "with Supporting Talent: Seko\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "706410"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Nora Brown with Stephanie Coleman",
+    "start": "2027-01-10T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/nora-brown-with-stephanie-coleman/706553?afflky=TheChapel",
+    "description": "Nora Brown, Stephanie Coleman\nat The Chapel\nGenre: Bluegrass",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "706553"
   },
   {
     "venue_key": "chapel",
