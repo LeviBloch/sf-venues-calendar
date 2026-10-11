@@ -57,28 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "****THE LOVEBIRDS***",
-    "start": "2026-10-10T17:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-lovebirds/707145?afflky=TheChapel",
-    "description": "THE LOVEBIRDS\nwith Supporting Talent: ANA & DUNCAN\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "707145"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Private Event",
-    "start": "2026-10-10T20:00:00-07:00",
-    "end": null,
-    "url": "https://thechapelsf.com/private-events/",
-    "description": "at The Chapel\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Derya Yildirim & Grup Şimşek, Thee Marloes",
     "start": "2026-10-11T20:00:00-07:00",
     "end": null,
@@ -163,5 +141,27 @@
     "description": "Miko Marks\nwith Supporting Talent: Maureen Gosling, Jed Riffe\nat 3:15pm Film @ Roxie, 6pm Q&A + Performance @ the Chapel\nGenre: Americana",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "706154"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Hovvdy",
+    "start": "2026-10-19T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/hovvdy/691044?afflky=TheChapel",
+    "description": "with Supporting Talent: Emma Ogier\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "691044"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "The Devil Makes Three",
+    "start": "2026-10-20T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-devil-makes-three/693372?afflky=TheChapel",
+    "description": "with Supporting Talent: Two Runner\nat The Chapel\nGenre: Americana",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "693372"
   }
 ]
