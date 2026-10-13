@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "The Music of Tom Verlaine",
+    "start": "2027-03-19T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-music-of-tom-verlaine/707964?afflky=TheChapel",
+    "description": "The Music of Tom Verlaine, Jimmy Rip, Jay Dee Daugherty, Jackson Smith, Chris Lightcap\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "707964"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Lael Neale",
     "start": "2027-02-12T20:30:00-08:00",
     "end": null,
@@ -46,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Swirlies",
-    "start": "2027-01-09T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/swirlies/706410?afflky=TheChapel",
-    "description": "with Supporting Talent: Seko\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "706410"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Militarie Gun",
     "start": "2026-10-13T19:00:00-07:00",
     "end": null,
@@ -72,7 +72,7 @@
     "start": "2026-10-14T19:30:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/dummy/700215?afflky=TheChapel",
-    "description": "with Supporting Talent: Golomb, figure eight, sachi's mirror\nat The Chapel\nGenre: Alternative",
+    "description": "with Supporting Talent: Golomb, figure eight, sachi's mirror, Visuals by Zack Rodell\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "700215"
   },
