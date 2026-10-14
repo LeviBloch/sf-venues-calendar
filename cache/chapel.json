@@ -2,6 +2,28 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Ty Segall",
+    "start": "2027-01-30T20:30:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/ty-segall/707703?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "707703"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Ty Segall",
+    "start": "2027-01-29T20:30:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/ty-segall/707701?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Psych Rock",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "707701"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "The Music of Tom Verlaine",
     "start": "2027-03-19T21:00:00-07:00",
     "end": null,
@@ -31,39 +53,6 @@
     "description": "with Supporting Talent: Bar Fight, Aaron Burnham & the Brushfires, East Bay Breeze, Paula Frazer & Tarnation, Sweet Chariot, Brian Mello & the Afterglow, Country Risqué, Nashville Honeymoon, Penelope Houston & the Jailbirds\nat The Chapel\nGenre: Americana",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "707714"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "The Loved Ones - Latest Hits Record Release!",
-    "start": "2027-01-07T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-loved-ones-latest-hits-record-release/707499?afflky=TheChapel",
-    "description": "The Loved Ones\nwith Supporting Talent: The Vesuvians, Karina Deniké, Russell Quan\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "707499"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Chuck Prophet",
-    "start": "2026-12-26T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/chuck-prophet/706760?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "706760"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Militarie Gun",
-    "start": "2026-10-13T19:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
-    "description": "with Supporting Talent: Softcult, Shady Nasty, Dazy\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "693468"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Two Runner\nat The Chapel\nGenre: Americana",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "693375"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Justin Nozuka",
+    "start": "2026-10-22T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/justin-nozuka/691473?afflky=TheChapel",
+    "description": "with Supporting Talent: Nimitt\nat The Chapel\nGenre: R&B",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "691473"
   }
 ]
