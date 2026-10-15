@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Helena Deland",
+    "start": "2027-03-18T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/helena-deland/707896?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "707896"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Ty Segall",
     "start": "2027-01-30T20:30:00-08:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "at The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "707903"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Sleepless Nights XX: A Tribute to Gram Parsons",
-    "start": "2026-11-27T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons/707714?afflky=TheChapel",
-    "description": "with Supporting Talent: Bar Fight, Aaron Burnham & the Brushfires, East Bay Breeze, Paula Frazer & Tarnation, Sweet Chariot, Brian Mello & the Afterglow, Country Risqué, Nashville Honeymoon, Penelope Houston & the Jailbirds\nat The Chapel\nGenre: Americana",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "707714"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Dummy",
-    "start": "2026-10-14T19:30:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/dummy/700215?afflky=TheChapel",
-    "description": "with Supporting Talent: Golomb, figure eight, sachi's mirror, Visuals by Zack Rodell\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "700215"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Nimitt\nat The Chapel\nGenre: R&B",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "691473"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Haunted Riot with Frightwig",
+    "start": "2026-10-23T20:00:00-07:00",
+    "end": null,
+    "url": "https://www.tixr.com/groups/kqed/events/haunted-riot-with-frightwig-an-alt-punk-show-204363",
+    "description": "with Supporting Talent: AroMa, Scary Story Time with Bay Curious\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
   }
 ]
