@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Moonalice",
+    "start": "2026-11-25T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/moonalice/708306?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "708306"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Helena Deland",
     "start": "2027-03-18T20:00:00-07:00",
     "end": null,
@@ -46,28 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Lael Neale",
-    "start": "2027-02-12T20:30:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/lael-neale/707903?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "707903"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Hot Flash Heat Wave",
-    "start": "2026-10-15T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/hot-flash-heat-wave/693459?afflky=TheChapel",
-    "description": "with Supporting Talent: Carpool Tunnel, Starzdust\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "693459"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Amélie Farren, Lilith Max, Rabbitology",
     "start": "2026-10-16T21:00:00-07:00",
     "end": null,
@@ -105,7 +94,7 @@
     "start": "2026-10-18T18:00:00-07:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-event-ft-miko-marks/706154?afflky=TheChapel",
-    "description": "Miko Marks\nwith Supporting Talent: Maureen Gosling, Jed Riffe\nat 3:15pm Film @ Roxie, 6pm Q&A + Performance @ the Chapel\nGenre: Americana",
+    "description": "Miko Marks\nwith Supporting Talent: Maureen Gosling, Jed Riffe\nat 3:10pm Film @ Roxie, 6pm Q&A + Performance @ the Chapel\nGenre: Americana",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "706154"
   },
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: AroMa, Scary Story Time with Bay Curious\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Weatherday: Hornet Disaster Tour 2026",
+    "start": "2026-10-24T21:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/weatherday-hornet-disaster-tour-2026/687518?afflky=TheChapel",
+    "description": "Weatherday\nwith Supporting Talent: Founders Day, Hit me,  Harold\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "687518"
   }
 ]
