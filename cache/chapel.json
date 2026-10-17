@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Amélie Farren, Lilith Max, Rabbitology",
-    "start": "2026-10-16T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/amelie-farren-lilith-max-rabbitology/695956?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695956"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Private Event",
     "start": "2026-10-17T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Weatherday\nwith Supporting Talent: Founders Day, Hit me,  Harold\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "687518"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "The War And Treaty",
+    "start": "2026-10-26T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-war-and-treaty/694221?afflky=TheChapel",
+    "description": "The War and Treaty\nwith Supporting Talent: Blank Page, Jordan Babbs\nat The Chapel\nGenre: Gospel",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694221"
   }
 ]
