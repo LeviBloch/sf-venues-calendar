@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Private Event",
-    "start": "2026-10-17T20:00:00-07:00",
-    "end": null,
-    "url": "https://thechapelsf.com/private-events/",
-    "description": "at The Chapel\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "LOVE SUPREME Summer Day Party Series",
     "start": "2026-10-18T14:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "The War and Treaty\nwith Supporting Talent: Blank Page, Jordan Babbs\nat The Chapel\nGenre: Gospel",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "694221"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Theo Katzman (Solo)",
+    "start": "2026-10-28T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/theo-katzman-solo/690498?afflky=TheChapel",
+    "description": "Theo Katzman\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "690498"
   }
 ]
