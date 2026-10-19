@@ -57,28 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "LOVE SUPREME Summer Day Party Series",
-    "start": "2026-10-18T14:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697839?afflky=TheChapel",
-    "description": "TRAVIE BOBBITO, KING MOST, BELLA D. & FRIENDS\nat The Chapel Outdoor Stage\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "697839"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "WOMEN’S REBEL VOICES FILM + MUSIC TOUR EVENT ft. MIKO MARKS",
-    "start": "2026-10-18T18:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-event-ft-miko-marks/706154?afflky=TheChapel",
-    "description": "Miko Marks\nwith Supporting Talent: Maureen Gosling, Jed Riffe\nat 3:10pm Film @ Roxie, 6pm Q&A + Performance @ the Chapel\nGenre: Americana",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "706154"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Hovvdy",
     "start": "2026-10-19T20:00:00-07:00",
     "end": null,
@@ -163,5 +141,27 @@
     "description": "Theo Katzman\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "690498"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Katie Pruitt",
+    "start": "2026-10-29T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel",
+    "description": "with Supporting Talent: Olivia Barton\nat The Chapel\nGenre: Americana",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695190"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "A Night of the Living Dead",
+    "start": "2026-10-30T20:30:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/a-night-of-the-living-dead/705528?afflky=TheChapel",
+    "description": "A Night of the Living Dead featuring\nwith Supporting Talent: Lebo, Holly Bowling, Wally Ingram, Elliott Peck, Danny Luehring, Steve Adams\nat The Chapel\nGenre: Jam Band",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705528"
   }
 ]
