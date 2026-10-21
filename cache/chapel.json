@@ -2,11 +2,22 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "The Rockers",
+    "title": "The Lemon Twigs",
+    "start": "2026-12-31T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel",
+    "description": "with Supporting Talent: Tchotchke, DJ Matt Stout\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "707220"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "The Rockers (Thin Lizzy Tribute)",
     "start": "2027-03-17T20:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/the-rockers/709042?afflky=TheChapel",
-    "description": "with Supporting Talent: Coffin Hunters\nat The Chapel\nGenre: Rock",
+    "url": "https://wl.seetickets.us/event/the-rockers-thin-lizzy-tribute/709042?afflky=TheChapel",
+    "description": "with Supporting Talent: Coffin Hunters\nat The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "709042"
   },
@@ -42,28 +53,6 @@
     "description": "at The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "707703"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Ty Segall",
-    "start": "2027-01-29T20:30:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/ty-segall/707701?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "707701"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "The Devil Makes Three",
-    "start": "2026-10-20T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-devil-makes-three/693372?afflky=TheChapel",
-    "description": "with Supporting Talent: Two Runner\nat The Chapel\nGenre: Americana",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "693372"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "Bone Diggers\nwith Supporting Talent: Reed Mathis, Lebo, Holly Bowling, Scott Rager\nat The Chapel\nGenre: Jam Band",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705531"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "POSTPONED: ChapelMania",
+    "start": "2026-11-01T15:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/postponed-chapelmania/705677?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705677"
   }
 ]
