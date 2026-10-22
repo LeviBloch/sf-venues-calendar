@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "The Devil Makes Three",
-    "start": "2026-10-21T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-devil-makes-three/693375?afflky=TheChapel",
-    "description": "with Supporting Talent: Two Runner\nat The Chapel\nGenre: Americana",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "693375"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Justin Nozuka",
     "start": "2026-10-22T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Sports General",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705677"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-11-02T20:00:00-08:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
   }
 ]
