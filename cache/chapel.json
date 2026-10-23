@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Election Night Watch Party: Hosted by Kochina Rude!",
+    "start": "2026-11-03T17:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/election-night-watch-party-hosted-by-kochina-rude/709292?afflky=TheChapel",
+    "description": "Hosted by Kochina Rude\nat The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "709292"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "The Lemon Twigs",
     "start": "2026-12-31T21:00:00-08:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "at The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "707896"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Ty Segall",
-    "start": "2027-01-30T20:30:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/ty-segall/707703?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "707703"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Justin Nozuka",
-    "start": "2026-10-22T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/justin-nozuka/691473?afflky=TheChapel",
-    "description": "with Supporting Talent: Nimitt\nat The Chapel\nGenre: R&B",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "691473"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Other Content",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Election Night Watch Party: Hosted by Kochina Rude!",
+    "start": "2026-11-03T17:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/election-night-watch-party-hosted-by-kochina-rude/709292?afflky=TheChapel",
+    "description": "Hosted by Kochina Rude\nat The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "709292"
   }
 ]
