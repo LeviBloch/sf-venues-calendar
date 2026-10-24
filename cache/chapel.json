@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Haunted Riot with Frightwig",
-    "start": "2026-10-23T20:00:00-07:00",
-    "end": null,
-    "url": "https://www.tixr.com/groups/kqed/events/haunted-riot-with-frightwig-an-alt-punk-show-204363",
-    "description": "with Supporting Talent: AroMa, Scary Story Time with Bay Curious\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Weatherday: Hornet Disaster Tour 2026",
     "start": "2026-10-24T21:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Hosted by Kochina Rude\nat The Chapel\nGenre: Other Content",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "709292"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Squirrel Flower",
+    "start": "2026-11-05T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/squirrel-flower/691286?afflky=TheChapel",
+    "description": "with Supporting Talent: Sour Widows\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "691286"
   }
 ]
