@@ -2,17 +2,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Watch the Valkyries vs. Dream game in Curio",
-    "start": "2026-10-26T17:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/watch-the-valkyries-vs-dream-game-in-curio/709455?afflky=TheChapel",
-    "description": "at Curio\nGenre: Sports General",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "709455"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Election Night Watch Party: Hosted by Kochina Rude!",
     "start": "2026-11-03T17:00:00-08:00",
     "end": null,
@@ -53,6 +42,17 @@
     "description": "with Supporting Talent: Mad Alchemy Liquid Light Show\nat The Chapel\nGenre: Jam Band",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "708306"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Helena Deland",
+    "start": "2027-03-18T20:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/helena-deland/707896?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "707896"
   },
   {
     "venue_key": "chapel",
