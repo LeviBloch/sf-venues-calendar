@@ -2,6 +2,28 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Baysik, Guapi, ColdSF (Door Sales Only)",
+    "start": "2026-10-31T21:00:00-07:00",
+    "end": null,
+    "url": "https://urldefense.com/v3/__https://www.instagram.com/sazonlibre/?hl=en__;!!AEl5w8WD!qEF2PDCYf5Vqo0gLaWm2UoXDJDR7OFxM2UDzxqSuVZ9wip212hErjAfChv-rgLr89CPHvh4zAwNanuTNoBfWt1T8$",
+    "description": "Baysik,  Guapi,  ColdSF\nat The Chapel\nGenre: DJ/Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Watch Game 7 at Curio",
+    "start": "2026-10-31T17:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-game-7-at-curio/709446?afflky=TheChapel",
+    "description": "with Supporting Talent: Golden State Valkyries vs. Atlanta Dream\nat Curio\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "709446"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Election Night Watch Party: Hosted by Kochina Rude!",
     "start": "2026-11-03T17:00:00-08:00",
     "end": null,
@@ -35,28 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Moonalice",
-    "start": "2026-11-25T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/moonalice/708306?afflky=TheChapel",
-    "description": "with Supporting Talent: Mad Alchemy Liquid Light Show\nat The Chapel\nGenre: Jam Band",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "708306"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Helena Deland",
-    "start": "2027-03-18T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/helena-deland/707896?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "707896"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Katie Pruitt",
     "start": "2026-10-29T20:00:00-07:00",
     "end": null,
@@ -79,6 +79,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Watch Game 7 at Curio",
+    "start": "2026-10-31T17:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/watch-game-7-at-curio/709446?afflky=TheChapel",
+    "description": "with Supporting Talent: Golden State Valkyries vs. Atlanta Dream\nat Curio\nGenre: Sports General",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "709446"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "The Paul Simon Halloween Ball Performed by Bone Diggers",
     "start": "2026-10-31T20:00:00-07:00",
     "end": null,
@@ -86,6 +97,17 @@
     "description": "Bone Diggers\nwith Supporting Talent: Reed Mathis, Lebo, Holly Bowling, Scott Rager, Mad Alchemy Liquid Lights\nat The Chapel Outdoor Stage\nGenre: Jam Band",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705531"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Baysik, Guapi, ColdSF (Door Sales Only)",
+    "start": "2026-10-31T21:00:00-07:00",
+    "end": null,
+    "url": "https://urldefense.com/v3/__https://www.instagram.com/sazonlibre/?hl=en__;!!AEl5w8WD!qEF2PDCYf5Vqo0gLaWm2UoXDJDR7OFxM2UDzxqSuVZ9wip212hErjAfChv-rgLr89CPHvh4zAwNanuTNoBfWt1T8$",
+    "description": "Baysik,  Guapi,  ColdSF\nat The Chapel\nGenre: DJ/Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
   },
   {
     "venue_key": "chapel",
@@ -141,27 +163,5 @@
     "description": "Legend Zeppelin\nat The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "699678"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Alex Cameron",
-    "start": "2026-11-07T21:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel",
-    "description": "with Supporting Talent: Josh da Costa\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "691429"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Buzzcocks, Modern English",
-    "start": "2026-11-10T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/buzzcocks-modern-english/695312?afflky=TheChapel",
-    "description": "with Supporting Talent: Grade 2\nat The Chapel\nGenre: Punk",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695312"
   }
 ]
