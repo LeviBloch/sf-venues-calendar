@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "An Evening With Theo Katzman (Solo)",
-    "start": "2026-10-28T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/an-evening-with-theo-katzman-solo/690498?afflky=TheChapel",
-    "description": "Theo Katzman\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "690498"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Katie Pruitt",
     "start": "2026-10-29T20:00:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Josh da Costa\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "691429"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Buzzcocks, Modern English",
+    "start": "2026-11-10T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/buzzcocks-modern-english/695312?afflky=TheChapel",
+    "description": "with Supporting Talent: Grade 2\nat The Chapel\nGenre: Punk",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695312"
   }
 ]
