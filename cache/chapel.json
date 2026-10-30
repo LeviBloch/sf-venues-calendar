@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Katie Pruitt",
-    "start": "2026-10-29T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel",
-    "description": "with Supporting Talent: Olivia Barton\nat The Chapel\nGenre: Americana",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695190"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "A Night of the Living Dead",
     "start": "2026-10-30T20:30:00-07:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "Legend Zeppelin\nat The Chapel\nGenre: Tribute Act",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "699678"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Alex Cameron",
+    "start": "2026-11-07T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel",
+    "description": "with Supporting Talent: Josh da Costa\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "691429"
   }
 ]
