@@ -2,17 +2,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Baysik, Guapi, ColdSF",
-    "start": "2026-10-31T21:00:00-07:00",
-    "end": null,
-    "url": "https://urldefense.com/v3/__https://www.instagram.com/sazonlibre/?hl=en__;!!AEl5w8WD!qEF2PDCYf5Vqo0gLaWm2UoXDJDR7OFxM2UDzxqSuVZ9wip212hErjAfChv-rgLr89CPHvh4zAwNanuTNoBfWt1T8$",
-    "description": "Baysik,  Guapi,  ColdSF\nat The Chapel\nGenre: DJ/Dance",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Election Night Watch Party: Hosted by Kochina Rude!",
     "start": "2026-11-03T17:00:00-08:00",
     "end": null,
@@ -57,13 +46,13 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "POSTPONED: ChapelMania",
-    "start": "2026-11-01T15:00:00-08:00",
+    "title": "Helena Deland",
+    "start": "2027-03-18T20:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/postponed-chapelmania/705677?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Sports General",
+    "url": "https://wl.seetickets.us/event/helena-deland/707896?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705677"
+    "source_uid": "707896"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Kelcey Ayer\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "691433"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "The Cactus Blossoms",
+    "start": "2026-11-14T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/the-cactus-blossoms/697167?afflky=TheChapel",
+    "description": "with Supporting Talent: Margo Cilker\nat The Chapel\nGenre: Country",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "697167"
   }
 ]
