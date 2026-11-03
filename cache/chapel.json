@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Private Event",
-    "start": "2026-11-02T20:00:00-08:00",
-    "end": null,
-    "url": "https://thechapelsf.com/private-events/",
-    "description": "at The Chapel\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Election Night Watch Party: Hosted by Kochina Rude!",
     "start": "2026-11-03T17:00:00-08:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Margo Cilker\nat The Chapel\nGenre: Country",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "697167"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "An Evening With Craig Finn & The Band of Forgiveness",
+    "start": "2026-11-15T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/an-evening-with-craig-finn-and-the-band-of-forgiveness/695580?afflky=TheChapel",
+    "description": "Craig Finn\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "695580"
   }
 ]
