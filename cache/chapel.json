@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Sylvie",
+    "start": "2027-02-23T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/sylvie/710246?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "710246"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "The Fabulous Bud E. Luv Christmas Extravaganza",
     "start": "2026-12-23T20:00:00-08:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "with Supporting Talent: Mad Alchemy Liquid Light Show\nat The Chapel\nGenre: Jam Band",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "708306"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Helena Deland",
-    "start": "2027-03-18T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/helena-deland/707896?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "707896"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Squirrel Flower",
-    "start": "2026-11-05T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/squirrel-flower/691286?afflky=TheChapel",
-    "description": "with Supporting Talent: Sour Widows\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "691286"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Anna Tivel\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "693371"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "John Carroll Kirby",
+    "start": "2026-11-18T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheChapel",
+    "description": "with Supporting Talent: Danny Paul Grody Duo\nat The Chapel\nGenre: Jazz",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "700565"
   }
 ]
