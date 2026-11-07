@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "An Evening With Legend Zeppelin",
-    "start": "2026-11-06T21:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/an-evening-with-legend-zeppelin/699678?afflky=TheChapel",
-    "description": "Legend Zeppelin\nat The Chapel\nGenre: Tribute Act",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "699678"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Alex Cameron",
     "start": "2026-11-07T21:00:00-08:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Danny Paul Grody Duo\nat The Chapel\nGenre: Jazz",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "700565"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "MADDIE ZAHM",
+    "start": "2026-11-20T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/maddie-zahm/694208?afflky=TheChapel",
+    "description": "Maddie Zahm\nwith Supporting Talent: OSTON\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "694208"
   }
 ]
