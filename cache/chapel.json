@@ -58,17 +58,6 @@
     "venue_key": "chapel",
     "venue_name": "The Chapel",
     "title": "Buzzcocks, Modern English",
-    "start": "2026-11-10T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/buzzcocks-modern-english/695312?afflky=TheChapel",
-    "description": "with Supporting Talent: Grade 2, Visuals by Zack Rodell\nat The Chapel\nGenre: Punk",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695312"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Buzzcocks, Modern English",
     "start": "2026-11-11T20:00:00-08:00",
     "end": null,
     "url": "https://wl.seetickets.us/event/buzzcocks-modern-english/695321?afflky=TheChapel",
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Archer Monk\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "705787"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Moonalice",
+    "start": "2026-11-25T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/moonalice/708306?afflky=TheChapel",
+    "description": "with Supporting Talent: Mad Alchemy Liquid Light Show\nat The Chapel\nGenre: Jam Band",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "708306"
   }
 ]
