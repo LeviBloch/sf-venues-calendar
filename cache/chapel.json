@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Buzzcocks, Modern English",
-    "start": "2026-11-11T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/buzzcocks-modern-english/695321?afflky=TheChapel",
-    "description": "with Supporting Talent: Grade 2, Visuals by Zack Rodell, DJ Tim Cohen\nat The Chapel\nGenre: Punk",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695321"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Marc Broussard",
     "start": "2026-11-12T20:00:00-08:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Mad Alchemy Liquid Light Show\nat The Chapel\nGenre: Jam Band",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "708306"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Sleepless Nights XX: A Tribute to Gram Parsons",
+    "start": "2026-11-27T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons/707714?afflky=TheChapel",
+    "description": "with Supporting Talent: Bar Fight, Aaron Burnham & the Brushfires, East Bay Breeze, Paula Frazer & Tarnation, Sweet Chariot, Brian Mello & the Afterglow, Country Risqué, Nashville Honeymoon, Penelope Houston & the Jailbirds\nat The Chapel\nGenre: Americana",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "707714"
   }
 ]
