@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Marc Broussard",
-    "start": "2026-11-12T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/marc-broussard/694235?afflky=TheChapel",
-    "description": "with Supporting Talent: Cristina Vane\nat The Chapel\nGenre: Soul",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694235"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Other Lives",
     "start": "2026-11-13T21:00:00-08:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "with Supporting Talent: Bar Fight, Aaron Burnham & the Brushfires, East Bay Breeze, Paula Frazer & Tarnation, Sweet Chariot, Brian Mello & the Afterglow, Country Risqué, Nashville Honeymoon, Penelope Houston & the Jailbirds\nat The Chapel\nGenre: Americana",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "707714"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Petty Theft",
+    "start": "2026-11-28T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/Petty-Theft/705785?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "705785"
   }
 ]
