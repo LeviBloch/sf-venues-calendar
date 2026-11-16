@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "76th Street",
+    "start": "2027-03-11T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/76th-street/711145?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "711145"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Dirty Projectors (solo)",
     "start": "2026-05-14T21:00:00-07:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "with Supporting Talent: Tchotchke, DJ Matt Stout\nat The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "707220"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "The Rockers (Thin Lizzy Tribute)",
-    "start": "2027-03-17T20:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-rockers-thin-lizzy-tribute/709042?afflky=TheChapel",
-    "description": "with Supporting Talent: Coffin Hunters\nat The Chapel\nGenre: Tribute Act",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "709042"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "An Evening With Craig Finn & The Band of Forgiveness",
-    "start": "2026-11-15T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/an-evening-with-craig-finn-and-the-band-of-forgiveness/695580?afflky=TheChapel",
-    "description": "Craig Finn\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "695580"
   },
   {
     "venue_key": "chapel",
@@ -158,6 +147,17 @@
     "venue_name": "The Chapel",
     "title": "Private Event",
     "start": "2026-12-03T20:00:00-08:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-12-04T20:00:00-08:00",
     "end": null,
     "url": "https://thechapelsf.com/private-events/",
     "description": "at The Chapel\nGenre: Other Content",
