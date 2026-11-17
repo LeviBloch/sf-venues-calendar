@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Narrow Head",
+    "start": "2027-04-06T19:00:00-07:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/narrow-head/711495?afflky=TheChapel",
+    "description": "with Supporting Talent: Horse Jumper of Love, Knumears, Worlds Worst\nat The Chapel\nGenre: Alternative",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "711495"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Delta Sleep",
     "start": "2027-04-02T20:30:00-07:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "at The Chapel\nGenre: Alternative",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "710246"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "The Fabulous Bud E. Luv Christmas Extravaganza",
-    "start": "2026-12-23T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/the-fabulous-bud-e-luv-christmas-extravaganza/710438?afflky=TheChapel",
-    "description": "Bud E. Luv\nwith Supporting Talent: Lady OFLO\nat The Chapel\nGenre: Classic Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "710438"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Margaret Glaspy",
-    "start": "2026-11-16T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel",
-    "description": "with Supporting Talent: Anna Tivel\nat The Chapel\nGenre: Indie",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "693371"
   },
   {
     "venue_key": "chapel",
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Other Content",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Buck Meek",
+    "start": "2026-12-07T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/buck-meek/681148?afflky=TheChapel",
+    "description": "with Supporting Talent: Kisser\nat The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "681148"
   }
 ]
