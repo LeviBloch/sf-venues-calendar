@@ -2,57 +2,57 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Narrow Head",
-    "start": "2027-04-06T19:00:00-07:00",
+    "title": "The Milk Carton Kids",
+    "start": "2027-02-10T20:00:00-08:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/narrow-head/711495?afflky=TheChapel",
-    "description": "with Supporting Talent: Horse Jumper of Love, Knumears, Worlds Worst\nat The Chapel\nGenre: Alternative",
+    "url": "https://wl.seetickets.us/event/the-milk-carton-kids/711607?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Americana",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "711495"
+    "source_uid": "711607"
   },
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Delta Sleep",
-    "start": "2027-04-02T20:30:00-07:00",
+    "title": "OSEES",
+    "start": "2026-08-30T20:30:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/delta-sleep/711282?afflky=TheChapel",
-    "description": "with Supporting Talent: Pure Hex\nat The Chapel\nGenre: Alternative",
+    "url": "https://wl.seetickets.us/event/OSEES/709830?afflky=TheChapel",
+    "description": "Osees\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "711282"
+    "source_uid": "709830"
   },
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "76th Street",
-    "start": "2027-03-11T20:00:00-08:00",
+    "title": "OSEES",
+    "start": "2026-08-29T20:30:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/76th-street/711145?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Alternative",
+    "url": "https://wl.seetickets.us/event/OSEES/709829?afflky=TheChapel",
+    "description": "Osees\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "711145"
+    "source_uid": "709829"
   },
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Dirty Projectors (solo)",
-    "start": "2026-05-14T21:00:00-07:00",
+    "title": "OSEES",
+    "start": "2026-08-28T21:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/dirty-projectors-solo/710519?afflky=TheChapel",
-    "description": "Dirty Projectors\nat The Chapel\nGenre: Indie",
+    "url": "https://wl.seetickets.us/event/OSEES/709828?afflky=TheChapel",
+    "description": "Osees\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "710519"
+    "source_uid": "709828"
   },
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Sylvie",
-    "start": "2027-02-23T20:00:00-08:00",
+    "title": "OSEES",
+    "start": "2026-08-27T21:00:00-07:00",
     "end": null,
-    "url": "https://wl.seetickets.us/event/sylvie/710246?afflky=TheChapel",
-    "description": "at The Chapel\nGenre: Alternative",
+    "url": "https://wl.seetickets.us/event/osees/709825?afflky=TheChapel",
+    "description": "Osees\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "710246"
+    "source_uid": "709825"
   },
   {
     "venue_key": "chapel",
@@ -134,28 +134,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Private Event",
-    "start": "2026-12-03T20:00:00-08:00",
-    "end": null,
-    "url": "https://thechapelsf.com/private-events/",
-    "description": "at The Chapel\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Private Event",
-    "start": "2026-12-04T20:00:00-08:00",
-    "end": null,
-    "url": "https://thechapelsf.com/private-events/",
-    "description": "at The Chapel\nGenre: Other Content",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Buck Meek",
     "start": "2026-12-07T20:00:00-08:00",
     "end": null,
@@ -163,5 +141,27 @@
     "description": "with Supporting Talent: Kisser\nat The Chapel\nGenre: Indie",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "681148"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-12-08T20:00:00-08:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-12-11T20:00:00-08:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
   }
 ]
