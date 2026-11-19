@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Horse Vision",
+    "start": "2027-02-27T21:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/horse-vision/712024?afflky=TheChapel",
+    "description": "at The Chapel\nGenre: Indie",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "712024"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Fred Barchetta (Rush Tribute)",
     "start": "2026-12-16T20:00:00-08:00",
     "end": null,
@@ -42,28 +53,6 @@
     "description": "Osees\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "709829"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "OSEES",
-    "start": "2026-08-28T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/OSEES/709828?afflky=TheChapel",
-    "description": "Osees\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "709828"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "John Carroll Kirby",
-    "start": "2026-11-18T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheChapel",
-    "description": "with Supporting Talent: Danny Paul Grody Duo\nat The Chapel\nGenre: Jazz",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "700565"
   },
   {
     "venue_key": "chapel",
@@ -158,6 +147,17 @@
     "venue_name": "The Chapel",
     "title": "Private Event",
     "start": "2026-12-11T20:00:00-08:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-12-12T20:00:00-08:00",
     "end": null,
     "url": "https://thechapelsf.com/private-events/",
     "description": "at The Chapel\nGenre: Other Content",
