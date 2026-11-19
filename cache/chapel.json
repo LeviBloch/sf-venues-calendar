@@ -2,6 +2,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Fred Barchetta (Rush Tribute)",
+    "start": "2026-12-16T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/fred-barchetta-rush-tribute/711661?afflky=TheChapel",
+    "description": "Fred Barchetta\nwith Supporting Talent: Dream Off (Aerosmith Tribute)\nat The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "711661"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "The Milk Carton Kids",
     "start": "2027-02-10T20:00:00-08:00",
     "end": null,
@@ -42,17 +53,6 @@
     "description": "Osees\nat The Chapel\nGenre: Psych Rock",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": "709828"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "OSEES",
-    "start": "2026-08-27T21:00:00-07:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/osees/709825?afflky=TheChapel",
-    "description": "Osees\nat The Chapel\nGenre: Psych Rock",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "709825"
   },
   {
     "venue_key": "chapel",
