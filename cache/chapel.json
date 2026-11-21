@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "MADDIE ZAHM",
-    "start": "2026-11-20T21:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/maddie-zahm/694208?afflky=TheChapel",
-    "description": "Maddie Zahm\nwith Supporting Talent: OSTON\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "694208"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Poi Dog Pondering",
     "start": "2026-11-21T21:00:00-08:00",
     "end": null,
@@ -158,6 +147,17 @@
     "venue_name": "The Chapel",
     "title": "Private Event",
     "start": "2026-12-12T20:00:00-08:00",
+    "end": null,
+    "url": "https://thechapelsf.com/private-events/",
+    "description": "at The Chapel\nGenre: Other Content",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Private Event",
+    "start": "2026-12-15T20:00:00-08:00",
     "end": null,
     "url": "https://thechapelsf.com/private-events/",
     "description": "at The Chapel\nGenre: Other Content",
