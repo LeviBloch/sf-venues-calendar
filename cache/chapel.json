@@ -57,17 +57,6 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
-    "title": "Poi Dog Pondering",
-    "start": "2026-11-21T21:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/poi-dog-pondering/705787?afflky=TheChapel",
-    "description": "with Supporting Talent: Archer Monk\nat The Chapel\nGenre: Alternative",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "705787"
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
     "title": "Moonalice",
     "start": "2026-11-25T20:00:00-08:00",
     "end": null,
@@ -163,5 +152,16 @@
     "description": "at The Chapel\nGenre: Other Content",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": null
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
+    "title": "Fred Barchetta (Rush Tribute)",
+    "start": "2026-12-16T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/fred-barchetta-rush-tribute/711661?afflky=TheChapel",
+    "description": "Fred Barchetta\nwith Supporting Talent: Dream Off (Aerosmith Tribute)\nat The Chapel\nGenre: Tribute Act",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "711661"
   }
 ]
