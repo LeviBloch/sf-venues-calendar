@@ -1,5 +1,5 @@
 {
-  "last_error": "All extraction strategies failed for SF Symphony at https://www.sfsymphony.org/Calendar. HTML=301318 bytes, JSON XHRs=14, all XHRs=99. Debug artifact: debug/symphony.html",
-  "error_count": 340,
-  "last_attempt": "2026-11-24T10:52:16.089379-08:00"
+  "last_error": "All extraction strategies failed for SF Symphony at https://www.sfsymphony.org/Calendar. HTML=299887 bytes, JSON XHRs=14, all XHRs=92. Debug artifact: debug/symphony.html",
+  "error_count": 341,
+  "last_attempt": "2026-11-24T19:01:49.105004-08:00"
 }

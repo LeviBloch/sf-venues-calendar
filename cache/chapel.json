@@ -68,6 +68,17 @@
   {
     "venue_key": "chapel",
     "venue_name": "The Chapel",
+    "title": "Black Out Wednesday with COLDSF & JOOG",
+    "start": "2026-11-25T20:00:00-08:00",
+    "end": null,
+    "url": "https://wl.seetickets.us/event/black-out-wednesday-with-coldsf-and-joog/712569?afflky=TheChapel",
+    "description": "at  The Chapel (Main Bar)\nGenre: DJ/Dance",
+    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
+    "source_uid": "712569"
+  },
+  {
+    "venue_key": "chapel",
+    "venue_name": "The Chapel",
     "title": "Sleepless Nights XX: A Tribute to Gram Parsons",
     "start": "2026-11-27T20:00:00-08:00",
     "end": null,
@@ -152,16 +163,5 @@
     "description": "at The Chapel\nGenre: Other Content",
     "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
     "source_uid": null
-  },
-  {
-    "venue_key": "chapel",
-    "venue_name": "The Chapel",
-    "title": "Fred Barchetta (Rush Tribute)",
-    "start": "2026-12-16T20:00:00-08:00",
-    "end": null,
-    "url": "https://wl.seetickets.us/event/fred-barchetta-rush-tribute/711661?afflky=TheChapel",
-    "description": "Fred Barchetta\nwith Supporting Talent: Dream Off (Aerosmith Tribute)\nat The Chapel\nGenre: Tribute Act",
-    "location": "The Chapel, 777 Valencia St, San Francisco, CA 94110",
-    "source_uid": "711661"
   }
 ]
